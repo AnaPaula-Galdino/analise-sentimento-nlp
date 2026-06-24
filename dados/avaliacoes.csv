@@ -1,0 +1,2501 @@
+avaliacao,nota,sentimento
+"Boa qualidade, a compra é maravilhoso, apesar de um arranhão na caixa.",5,positivo
+"A compra é frustrante, não recomendo.",2,negativo
+Razoável pelo preço.,3,neutro
+"Atendimento atencioso, o produto é excelente.",5,positivo
+"Comum, sem destaque, comum, sem destaque.",5,positivo
+"Chegou quebrado, a entrega é fraco.",1,negativo
+"Valeu o preço, a embalagem é incrível.",5,positivo
+"Tive problema na troca, a entrega é frustrante.",1,negativo
+"A entrega é ótimo, superou as expectativas.",5,positivo
+"Chegou antes do prazo, o atendimento é maravilhoso.",5,positivo
+"Mas a entrega demorou um pouco, o atendimento é muito bom, recomendo.",4,positivo
+"Cumpre o que promete, é ok.",3,neutro
+Razoável pelo preço.,3,neutro
+"Superou as expectativas, o pedido é maravilhoso.",5,positivo
+"Mediano, é ok.",3,neutro
+"A entrega é frustrante, veio com defeito.",1,negativo
+"Não recomendo, a compra é ruim.",2,negativo
+"Poderia ser melhor, a embalagem é decepcionante.",5,positivo
+"É ok, entrega rápida, esperava mais mas serve.",3,neutro
+"Superou as expectativas, o produto é bacana.",4,positivo
+"Abaixo do esperado, a embalagem é péssimo.",2,negativo
+"A entrega é impecável, recomendo, só achei meio caro.",5,positivo
+"O pedido é fraco, porém chegou rápido, poderia ser melhor.",1,negativo
+"A entrega é frustrante, chegou quebrado.",1,negativo
+"Razoável pelo preço, razoável pelo preço, valeu o preço.",5,positivo
+"Boa qualidade, o produto é ótimo.",5,positivo
+"Mas a entrega demorou um pouco, entrega rápida, o produto é bacana.",5,positivo
+"O atendimento é péssimo, tive problema na troca.",5,positivo
+"Não recomendo, a embalagem é fraco.",1,negativo
+"O produto é excelente, valeu o preço.",4,positivo
+Dentro do esperado.,3,neutro
+"Porém chegou rápido, poderia ser melhor, a entrega é horrível.",2,negativo
+"A embalagem é decepcionante, veio com defeito.",2,negativo
+"Não recomendo, a compra é péssimo.",1,negativo
+"Comum, sem destaque.",3,neutro
+"Superou as expectativas, a entrega é maravilhoso.",4,positivo
+"Boa qualidade, a compra é bacana.",4,positivo
+"Só achei meio caro, entrega rápida, o produto é ótimo.",5,positivo
+"Recomendo, a entrega é excelente.",5,positivo
+"Chegou antes do prazo, a embalagem é impecável.",5,positivo
+"O pedido é ruim, abaixo do esperado.",1,negativo
+"Recomendo, o atendimento é maravilhoso.",4,positivo
+"O atendimento é frustrante, chegou quebrado, ainda assim a embalagem era bonita.",1,negativo
+"Mediano, dentro do esperado.",3,neutro
+"A entrega é incrível, superou as expectativas.",3,neutro
+"A embalagem é péssimo, tive problema na troca, porém chegou rápido.",1,negativo
+"Veio com defeito, o atendimento é fraco.",4,positivo
+"Recomendo, o pedido é maravilhoso.",5,positivo
+"Tive problema na troca, o produto é fraco.",2,negativo
+"O produto é incrível, chegou antes do prazo.",5,positivo
+"Só achei meio caro, o pedido é impecável, chegou antes do prazo.",5,positivo
+"Recomendo, a compra é incrível.",4,positivo
+"Valeu o preço, a entrega é muito bom, só achei meio caro.",5,positivo
+"O atendimento é horrível, demorou para chegar.",1,negativo
+"Demorou para chegar, ainda assim a embalagem era bonita, o atendimento é ruim.",3,neutro
+"A embalagem é excelente, voltarei a comprar.",4,positivo
+"É ok, atende ao básico.",4,positivo
+"Superou as expectativas, o pedido é bacana.",4,positivo
+"O pedido é decepcionante, demorou para chegar, mas o atendimento tentou ajudar.",1,negativo
+"A entrega é incrível, entrega rápida.",5,positivo
+"A entrega é fraco, abaixo do esperado.",1,negativo
+"O produto é fraco, veio com defeito.",2,negativo
+"Valeu o preço, o pedido é ótimo.",4,positivo
+"Só achei meio caro, a embalagem é perfeito, valeu o preço.",4,positivo
+"Valeu o preço, o atendimento é maravilhoso, só achei meio caro.",5,positivo
+"Abaixo do esperado, a compra é fraco.",5,positivo
+"Superou as expectativas, mas a entrega demorou um pouco, a compra é impecável.",5,positivo
+"O atendimento é excelente, superou as expectativas.",5,positivo
+"Não recomendo, a compra é frustrante.",1,negativo
+"Razoável pelo preço, atende ao básico.",3,neutro
+"O atendimento é excelente, atendimento atencioso, mas a entrega demorou um pouco.",4,positivo
+"Boa qualidade, o atendimento é excelente.",5,positivo
+"Dentro do esperado, cumpre o que promete.",3,neutro
+"Veio com defeito, a entrega é fraco.",2,negativo
+"Só achei meio caro, valeu o preço, o pedido é impecável.",5,positivo
+"A embalagem é ótimo, chegou antes do prazo, só achei meio caro.",4,positivo
+"Boa qualidade, o produto é muito bom.",5,positivo
+"O pedido é fraco, poderia ser melhor.",1,negativo
+"Veio com defeito, a entrega é decepcionante.",1,negativo
+"Poderia ser melhor, o atendimento é frustrante.",1,negativo
+"A entrega é incrível, boa qualidade.",4,positivo
+Cumpre o que promete.,2,negativo
+"Valeu o preço, a entrega é impecável.",4,positivo
+Razoável pelo preço.,2,negativo
+"Atende ao básico, cumpre o que promete.",1,negativo
+"O produto é ótimo, apesar de um arranhão na caixa, recomendo.",5,positivo
+"Chegou antes do prazo, a compra é perfeito.",4,positivo
+"Superou as expectativas, a compra é bacana.",5,positivo
+"Entrega rápida, o pedido é impecável, só achei meio caro.",1,negativo
+"Chegou quebrado, a entrega é ruim.",1,negativo
+Atende ao básico.,3,neutro
+"A compra é ótimo, atendimento atencioso.",5,positivo
+"Esperava mais mas serve, é ok.",3,neutro
+"O atendimento é péssimo, abaixo do esperado.",1,negativo
+"Superou as expectativas, o produto é maravilhoso.",5,positivo
+"Boa qualidade, o produto é ótimo.",4,positivo
+"Veio com defeito, a entrega é péssimo.",1,negativo
+"Não recomendo, a entrega é decepcionante.",2,negativo
+"Poderia ser melhor, o atendimento é ruim, ainda assim a embalagem era bonita.",1,negativo
+Mediano.,3,neutro
+"Mas a entrega demorou um pouco, a embalagem é maravilhoso, voltarei a comprar.",4,positivo
+"Superou as expectativas, o pedido é incrível.",5,positivo
+"É ok, cumpre o que promete.",2,negativo
+"O atendimento é perfeito, atendimento atencioso.",4,positivo
+"Demorou para chegar, porém chegou rápido, o atendimento é horrível.",1,negativo
+"O pedido é horrível, mas o atendimento tentou ajudar, abaixo do esperado.",1,negativo
+"A compra é frustrante, poderia ser melhor.",1,negativo
+"O produto é péssimo, veio com defeito.",3,neutro
+"O pedido é muito bom, atendimento atencioso.",5,positivo
+"Atendimento atencioso, a entrega é bacana, mas a entrega demorou um pouco.",5,positivo
+"Recomendo, a embalagem é bacana.",4,positivo
+"Voltarei a comprar, o produto é impecável.",5,positivo
+Mediano.,2,negativo
+"Chegou quebrado, o produto é ruim.",1,negativo
+"Voltarei a comprar, o atendimento é perfeito.",4,positivo
+"A compra é muito bom, atendimento atencioso.",3,neutro
+"Apesar de um arranhão na caixa, valeu o preço, a embalagem é maravilhoso.",1,negativo
+"Poderia ser melhor, a compra é péssimo.",2,negativo
+"A compra é horrível, não recomendo.",4,positivo
+"Dentro do esperado, é ok.",3,neutro
+"Superou as expectativas, o produto é incrível.",4,positivo
+"Não recomendo, o atendimento é fraco.",1,negativo
+"A embalagem é bacana, chegou antes do prazo.",4,positivo
+"Abaixo do esperado, a entrega é fraco.",2,negativo
+"Chegou antes do prazo, o produto é bacana.",4,positivo
+"Ainda assim a embalagem era bonita, poderia ser melhor, o atendimento é ruim.",1,negativo
+"Dentro do esperado, superou as expectativas.",3,neutro
+"Não recomendo, o produto é fraco.",4,positivo
+"A entrega é maravilhoso, superou as expectativas.",5,positivo
+"Entrega rápida, a entrega é perfeito.",4,positivo
+"O atendimento é maravilhoso, recomendo, mas a entrega demorou um pouco.",5,positivo
+"Não recomendo, o pedido é decepcionante, mas o atendimento tentou ajudar.",1,negativo
+"Recomendo, o produto é excelente.",4,positivo
+"Esperava mais mas serve, comum, sem destaque.",3,neutro
+"Apesar de um arranhão na caixa, valeu o preço, a embalagem é bacana.",5,positivo
+"A embalagem é horrível, poderia ser melhor.",1,negativo
+"Chegou antes do prazo, comum, sem destaque.",3,neutro
+"A embalagem é péssimo, veio com defeito.",2,negativo
+"Esperava mais mas serve, mediano.",3,neutro
+"O pedido é bacana, entrega rápida.",5,positivo
+"Poderia ser melhor, a entrega é frustrante, mas o atendimento tentou ajudar.",5,positivo
+"O pedido é muito bom, entrega rápida.",5,positivo
+"Voltarei a comprar, cumpre o que promete.",3,neutro
+"A compra é horrível, tive problema na troca.",3,neutro
+Mediano.,3,neutro
+"Apesar de um arranhão na caixa, o atendimento é maravilhoso, atendimento atencioso.",5,positivo
+"A entrega é ruim, veio com defeito.",5,positivo
+"Valeu o preço, o produto é impecável.",5,positivo
+"O atendimento é ruim, mas o atendimento tentou ajudar, abaixo do esperado.",1,negativo
+"Entrega rápida, a embalagem é perfeito.",5,positivo
+"O produto é impecável, atendimento atencioso.",5,positivo
+"Apesar de um arranhão na caixa, recomendo, o pedido é ótimo.",5,positivo
+"Voltarei a comprar, o produto é impecável.",4,positivo
+"Esperava mais mas serve, esperava mais mas serve.",1,negativo
+"A entrega é excelente, valeu o preço.",5,positivo
+"Valeu o preço, atende ao básico.",3,neutro
+"Chegou quebrado, a entrega é decepcionante.",2,negativo
+"O pedido é horrível, abaixo do esperado, ainda assim a embalagem era bonita.",2,negativo
+"A entrega é maravilhoso, entrega rápida.",4,positivo
+"Recomendo, o produto é excelente.",5,positivo
+"Abaixo do esperado, a embalagem é ruim.",2,negativo
+"A embalagem é excelente, chegou antes do prazo.",4,positivo
+"Não recomendo, cumpre o que promete.",3,neutro
+"O produto é bacana, recomendo.",3,neutro
+"O pedido é péssimo, abaixo do esperado.",2,negativo
+"A embalagem é bacana, chegou antes do prazo.",4,positivo
+"A embalagem é maravilhoso, superou as expectativas.",4,positivo
+"Demorou para chegar, o produto é frustrante.",1,negativo
+"O produto é péssimo, veio com defeito.",2,negativo
+"A embalagem é muito bom, superou as expectativas.",5,positivo
+"Chegou quebrado, a entrega é ruim.",1,negativo
+"Atendimento atencioso, o produto é excelente.",4,positivo
+"A embalagem é muito bom, superou as expectativas.",4,positivo
+Cumpre o que promete.,3,neutro
+"O produto é ótimo, chegou antes do prazo.",4,positivo
+"Chegou quebrado, o pedido é horrível, mas o atendimento tentou ajudar.",2,negativo
+"A compra é fraco, não recomendo.",1,negativo
+"A entrega é excelente, valeu o preço.",4,positivo
+"A embalagem é fraco, veio com defeito.",1,negativo
+"O produto é frustrante, veio com defeito.",2,negativo
+"Boa qualidade, o pedido é impecável.",5,positivo
+"Entrega rápida, a entrega é maravilhoso.",5,positivo
+"A compra é muito bom, entrega rápida.",5,positivo
+Atende ao básico.,3,neutro
+"Não recomendo, o pedido é horrível.",3,neutro
+"Não recomendo, o pedido é horrível.",2,negativo
+"Boa qualidade, o produto é impecável.",4,positivo
+"A compra é bacana, superou as expectativas.",5,positivo
+"O pedido é péssimo, não recomendo.",2,negativo
+"A embalagem é frustrante, veio com defeito.",1,negativo
+"A compra é fraco, não recomendo, mas o atendimento tentou ajudar.",1,negativo
+"Só achei meio caro, boa qualidade, o atendimento é maravilhoso.",4,positivo
+"Valeu o preço, o pedido é muito bom.",5,positivo
+"A entrega é ótimo, chegou antes do prazo.",4,positivo
+"A entrega é maravilhoso, chegou antes do prazo.",3,neutro
+"Recomendo, a entrega é impecável.",5,positivo
+"Poderia ser melhor, o atendimento é péssimo.",1,negativo
+"O pedido é bacana, superou as expectativas.",5,positivo
+"A embalagem é decepcionante, veio com defeito.",1,negativo
+"A entrega é impecável, voltarei a comprar.",5,positivo
+"Comum, sem destaque.",3,neutro
+"Abaixo do esperado, o produto é frustrante.",1,negativo
+"O atendimento é excelente, entrega rápida.",5,positivo
+"Recomendo, o atendimento é excelente, só achei meio caro.",5,positivo
+"Mas a entrega demorou um pouco, entrega rápida, a entrega é impecável.",4,positivo
+"O produto é horrível, porém chegou rápido, veio com defeito.",3,neutro
+"A compra é incrível, atendimento atencioso.",5,positivo
+"Esperava mais mas serve, é ok.",5,positivo
+"A compra é impecável, chegou antes do prazo.",5,positivo
+"Boa qualidade, o produto é incrível.",4,positivo
+"A embalagem é decepcionante, abaixo do esperado.",2,negativo
+"Chegou quebrado, a compra é frustrante, porém chegou rápido.",1,negativo
+"O atendimento é frustrante, tive problema na troca.",1,negativo
+Razoável pelo preço.,4,positivo
+"O produto é muito bom, voltarei a comprar.",5,positivo
+"Comum, sem destaque.",3,neutro
+"O pedido é frustrante, mas o atendimento tentou ajudar, não recomendo.",2,negativo
+"A compra é muito bom, mas a entrega demorou um pouco, superou as expectativas.",5,positivo
+"Recomendo, mas a entrega demorou um pouco, a entrega é incrível.",5,positivo
+"Esperava mais mas serve, atende ao básico.",1,negativo
+"Superou as expectativas, o atendimento é perfeito.",4,positivo
+"Razoável pelo preço, comum, sem destaque, atendimento atencioso.",3,neutro
+"A embalagem é muito bom, voltarei a comprar.",4,positivo
+"Não recomendo, razoável pelo preço, esperava mais mas serve.",3,neutro
+"Superou as expectativas, o pedido é muito bom.",5,positivo
+"A embalagem é excelente, superou as expectativas.",5,positivo
+"Voltarei a comprar, o produto é impecável.",4,positivo
+"O pedido é excelente, mas a entrega demorou um pouco, boa qualidade.",4,positivo
+"O pedido é péssimo, chegou quebrado.",1,negativo
+"A embalagem é bacana, valeu o preço, só achei meio caro.",4,positivo
+"Boa qualidade, a entrega é ótimo.",5,positivo
+"Poderia ser melhor, a entrega é péssimo.",2,negativo
+"Poderia ser melhor, mas o atendimento tentou ajudar, a compra é decepcionante.",1,negativo
+"Boa qualidade, o produto é incrível.",4,positivo
+"Veio com defeito, a embalagem é horrível.",2,negativo
+"Mediano, dentro do esperado, chegou antes do prazo.",4,positivo
+"Atendimento atencioso, a embalagem é ótimo.",5,positivo
+"A embalagem é péssimo, demorou para chegar.",1,negativo
+"Só achei meio caro, o produto é excelente, entrega rápida.",4,positivo
+Esperava mais mas serve.,5,positivo
+"Entrega rápida, a compra é impecável.",5,positivo
+"Recomendo, o pedido é bacana.",4,positivo
+"Dentro do esperado, atende ao básico.",3,neutro
+Esperava mais mas serve.,5,positivo
+"Não recomendo, mas o atendimento tentou ajudar, a embalagem é frustrante.",5,positivo
+"A compra é ruim, veio com defeito, mas o atendimento tentou ajudar.",2,negativo
+"Superou as expectativas, o produto é maravilhoso.",5,positivo
+Mediano.,3,neutro
+"O pedido é muito bom, boa qualidade, apesar de um arranhão na caixa.",5,positivo
+"Demorou para chegar, o produto é horrível.",1,negativo
+"Veio com defeito, o atendimento é péssimo, ainda assim a embalagem era bonita.",1,negativo
+"A entrega é muito bom, chegou antes do prazo.",5,positivo
+"Chegou quebrado, a entrega é ruim, porém chegou rápido.",1,negativo
+"É ok, abaixo do esperado, comum, sem destaque.",3,neutro
+"É ok, mediano.",5,positivo
+"A entrega é péssimo, tive problema na troca.",4,positivo
+"Valeu o preço, a embalagem é muito bom.",5,positivo
+"O pedido é perfeito, mas a entrega demorou um pouco, entrega rápida.",5,positivo
+"Chegou quebrado, a entrega é péssimo.",2,negativo
+"O produto é perfeito, chegou antes do prazo.",5,positivo
+"A compra é fraco, poderia ser melhor.",2,negativo
+"O pedido é péssimo, chegou quebrado.",2,negativo
+"Entrega rápida, o pedido é excelente.",5,positivo
+"O atendimento é perfeito, entrega rápida.",5,positivo
+"O pedido é ótimo, voltarei a comprar.",4,positivo
+"Veio com defeito, o produto é ruim.",2,negativo
+Dentro do esperado.,5,positivo
+"Poderia ser melhor, o pedido é decepcionante.",2,negativo
+"O pedido é perfeito, boa qualidade.",5,positivo
+"Poderia ser melhor, o produto é horrível, ainda assim a embalagem era bonita.",2,negativo
+"A embalagem é maravilhoso, atendimento atencioso.",5,positivo
+"Demorou para chegar, a embalagem é decepcionante.",2,negativo
+"O atendimento é decepcionante, poderia ser melhor.",2,negativo
+"Recomendo, o atendimento é perfeito, mas a entrega demorou um pouco.",5,positivo
+"O produto é bacana, recomendo.",4,positivo
+"Não recomendo, a entrega é péssimo.",1,negativo
+"Mediano, é ok, recomendo.",3,neutro
+"Atendimento atencioso, a compra é maravilhoso.",5,positivo
+"Tive problema na troca, a embalagem é horrível.",5,positivo
+"A entrega é fraco, tive problema na troca.",2,negativo
+"O produto é incrível, chegou antes do prazo, só achei meio caro.",4,positivo
+"Chegou antes do prazo, o atendimento é muito bom.",5,positivo
+"Tive problema na troca, o atendimento é frustrante.",2,negativo
+"Chegou antes do prazo, a compra é impecável, apesar de um arranhão na caixa.",5,positivo
+"O pedido é perfeito, chegou antes do prazo.",5,positivo
+"O produto é perfeito, voltarei a comprar.",5,positivo
+"Atende ao básico, mediano.",5,positivo
+"Atende ao básico, recomendo.",3,neutro
+"O atendimento é ótimo, recomendo.",5,positivo
+"A embalagem é bacana, superou as expectativas.",5,positivo
+"O pedido é incrível, recomendo.",5,positivo
+"A compra é frustrante, não recomendo.",5,positivo
+"A entrega é ótimo, entrega rápida.",5,positivo
+"A compra é excelente, superou as expectativas.",5,positivo
+"Chegou antes do prazo, o produto é ótimo.",5,positivo
+É ok.,3,neutro
+"A compra é ótimo, superou as expectativas.",4,positivo
+"Tive problema na troca, o produto é péssimo.",1,negativo
+"O pedido é impecável, entrega rápida.",5,positivo
+"A entrega é incrível, chegou antes do prazo, apesar de um arranhão na caixa.",5,positivo
+"Abaixo do esperado, a embalagem é frustrante.",4,positivo
+"Valeu o preço, a embalagem é bacana.",4,positivo
+"O pedido é perfeito, boa qualidade.",4,positivo
+"O produto é decepcionante, abaixo do esperado.",2,negativo
+"Razoável pelo preço, chegou antes do prazo, mediano.",3,neutro
+"A entrega é fraco, poderia ser melhor.",2,negativo
+"A entrega é maravilhoso, só achei meio caro, valeu o preço.",5,positivo
+"A embalagem é impecável, atendimento atencioso.",1,negativo
+"Apesar de um arranhão na caixa, o pedido é excelente, boa qualidade.",5,positivo
+"Ainda assim a embalagem era bonita, veio com defeito, o pedido é decepcionante.",1,negativo
+"O produto é excelente, recomendo.",4,positivo
+"O pedido é bacana, valeu o preço.",5,positivo
+"O pedido é decepcionante, tive problema na troca.",5,positivo
+"O pedido é péssimo, porém chegou rápido, tive problema na troca.",2,negativo
+"Boa qualidade, só achei meio caro, a entrega é impecável.",5,positivo
+Mediano.,3,neutro
+"Valeu o preço, a embalagem é ótimo.",5,positivo
+"O produto é maravilhoso, atendimento atencioso.",5,positivo
+"O produto é decepcionante, tive problema na troca.",2,negativo
+"O atendimento é fraco, chegou quebrado.",5,positivo
+"O pedido é horrível, não recomendo.",5,positivo
+Atende ao básico.,3,neutro
+"O produto é excelente, valeu o preço.",4,positivo
+É ok.,3,neutro
+"Apesar de um arranhão na caixa, a embalagem é bacana, chegou antes do prazo.",4,positivo
+"Apesar de um arranhão na caixa, voltarei a comprar, o produto é impecável.",4,positivo
+"Abaixo do esperado, a compra é decepcionante, ainda assim a embalagem era bonita.",1,negativo
+"Esperava mais mas serve, esperava mais mas serve.",3,neutro
+"O pedido é ótimo, voltarei a comprar.",5,positivo
+"Veio com defeito, a compra é fraco.",1,negativo
+"Comum, sem destaque, esperava mais mas serve.",3,neutro
+"Razoável pelo preço, é ok.",3,neutro
+"Mas o atendimento tentou ajudar, demorou para chegar, o pedido é horrível.",1,negativo
+"O pedido é horrível, veio com defeito.",2,negativo
+"O pedido é bacana, valeu o preço.",4,positivo
+"Recomendo, a compra é muito bom.",5,positivo
+"Apesar de um arranhão na caixa, recomendo, a compra é perfeito.",5,positivo
+"Esperava mais mas serve, cumpre o que promete.",4,positivo
+"O atendimento é excelente, superou as expectativas.",5,positivo
+Cumpre o que promete.,3,neutro
+"Chegou antes do prazo, o atendimento é maravilhoso.",4,positivo
+"O pedido é decepcionante, tive problema na troca.",1,negativo
+"Demorou para chegar, a compra é frustrante.",1,negativo
+"O produto é decepcionante, não recomendo.",1,negativo
+"Veio com defeito, esperava mais mas serve.",3,neutro
+"Esperava mais mas serve, atende ao básico.",3,neutro
+Dentro do esperado.,3,neutro
+"Entrega rápida, dentro do esperado, comum, sem destaque.",3,neutro
+"Recomendo, mediano.",4,positivo
+Razoável pelo preço.,3,neutro
+"O produto é fraco, poderia ser melhor.",1,negativo
+"A entrega é fraco, não recomendo.",2,negativo
+"Atende ao básico, abaixo do esperado.",5,positivo
+"A compra é ótimo, chegou antes do prazo.",4,positivo
+"Superou as expectativas, a compra é incrível.",5,positivo
+"Chegou antes do prazo, a embalagem é excelente.",5,positivo
+"O atendimento é impecável, superou as expectativas.",4,positivo
+"Tive problema na troca, o atendimento é horrível.",2,negativo
+"Veio com defeito, o atendimento é frustrante.",2,negativo
+"O pedido é muito bom, mas a entrega demorou um pouco, chegou antes do prazo.",5,positivo
+"Chegou quebrado, a compra é fraco.",2,negativo
+"O atendimento é bacana, apesar de um arranhão na caixa, superou as expectativas.",4,positivo
+"A entrega é bacana, voltarei a comprar.",1,negativo
+"Cumpre o que promete, voltarei a comprar.",3,neutro
+"A compra é maravilhoso, voltarei a comprar.",4,positivo
+"A embalagem é horrível, ainda assim a embalagem era bonita, tive problema na troca.",1,negativo
+"Voltarei a comprar, o atendimento é incrível.",4,positivo
+"Mas o atendimento tentou ajudar, tive problema na troca, a compra é péssimo.",4,positivo
+"É ok, razoável pelo preço.",2,negativo
+"A entrega é muito bom, apesar de um arranhão na caixa, chegou antes do prazo.",4,positivo
+"O pedido é maravilhoso, voltarei a comprar.",5,positivo
+"É ok, dentro do esperado.",3,neutro
+"Atende ao básico, razoável pelo preço.",5,positivo
+"A compra é frustrante, poderia ser melhor.",2,negativo
+"A entrega é horrível, poderia ser melhor.",4,positivo
+"Entrega rápida, apesar de um arranhão na caixa, o pedido é maravilhoso.",5,positivo
+"O atendimento é péssimo, tive problema na troca.",5,positivo
+"A entrega é maravilhoso, boa qualidade.",4,positivo
+"Chegou antes do prazo, a compra é excelente.",4,positivo
+"Voltarei a comprar, mediano.",3,neutro
+"Chegou antes do prazo, o pedido é ótimo.",4,positivo
+"Tive problema na troca, a compra é frustrante.",2,negativo
+"A embalagem é frustrante, chegou quebrado.",1,negativo
+"A compra é bacana, valeu o preço.",4,positivo
+"O atendimento é muito bom, entrega rápida.",5,positivo
+"Razoável pelo preço, atende ao básico.",3,neutro
+"A embalagem é perfeito, mas a entrega demorou um pouco, recomendo.",5,positivo
+"A compra é ruim, não recomendo.",2,negativo
+"O atendimento é bacana, chegou antes do prazo.",5,positivo
+"Tive problema na troca, o atendimento é fraco.",2,negativo
+"É ok, comum, sem destaque.",3,neutro
+"A compra é impecável, recomendo.",2,negativo
+"Superou as expectativas, só achei meio caro, a entrega é ótimo.",4,positivo
+"O pedido é frustrante, abaixo do esperado.",4,positivo
+"O produto é impecável, só achei meio caro, entrega rápida.",4,positivo
+"Só achei meio caro, o produto é impecável, entrega rápida.",5,positivo
+"A entrega é impecável, boa qualidade.",5,positivo
+"Tive problema na troca, o produto é ruim.",2,negativo
+"O pedido é excelente, valeu o preço.",4,positivo
+"A entrega é incrível, chegou antes do prazo.",5,positivo
+"Voltarei a comprar, o atendimento é incrível.",5,positivo
+"Recomendo, a compra é incrível.",4,positivo
+"Mas o atendimento tentou ajudar, poderia ser melhor, a entrega é frustrante.",2,negativo
+"A entrega é incrível, atendimento atencioso.",5,positivo
+"O produto é bacana, superou as expectativas.",5,positivo
+"O atendimento é frustrante, tive problema na troca.",1,negativo
+"Entrega rápida, o produto é maravilhoso.",4,positivo
+"A entrega é fraco, não recomendo, mas o atendimento tentou ajudar.",2,negativo
+"Abaixo do esperado, o produto é horrível, mas o atendimento tentou ajudar.",5,positivo
+"A entrega é péssimo, abaixo do esperado.",1,negativo
+Mediano.,3,neutro
+"Boa qualidade, a compra é maravilhoso.",5,positivo
+"Chegou antes do prazo, o atendimento é perfeito.",4,positivo
+"O atendimento é excelente, entrega rápida.",4,positivo
+"Voltarei a comprar, a entrega é incrível, apesar de um arranhão na caixa.",5,positivo
+"É ok, cumpre o que promete.",3,neutro
+"Apesar de um arranhão na caixa, superou as expectativas, o atendimento é maravilhoso.",4,positivo
+"O atendimento é impecável, entrega rápida.",4,positivo
+"Superou as expectativas, o atendimento é ótimo.",5,positivo
+"O produto é maravilhoso, voltarei a comprar.",5,positivo
+"Atendimento atencioso, esperava mais mas serve, é ok.",5,positivo
+Mediano.,3,neutro
+"Apesar de um arranhão na caixa, recomendo, a embalagem é bacana.",4,positivo
+"Valeu o preço, o pedido é ótimo.",3,neutro
+"Recomendo, o produto é bacana.",5,positivo
+"A compra é maravilhoso, valeu o preço.",5,positivo
+"Demorou para chegar, ainda assim a embalagem era bonita, o produto é frustrante.",1,negativo
+"Cumpre o que promete, dentro do esperado.",1,negativo
+"O produto é impecável, boa qualidade.",4,positivo
+"Valeu o preço, a embalagem é perfeito, só achei meio caro.",4,positivo
+"O produto é muito bom, valeu o preço.",4,positivo
+"Veio com defeito, o pedido é ruim.",3,neutro
+"Não recomendo, o produto é péssimo.",2,negativo
+"A compra é incrível, recomendo.",4,positivo
+"O produto é ótimo, entrega rápida.",4,positivo
+"Chegou quebrado, comum, sem destaque, dentro do esperado.",3,neutro
+"Atende ao básico, esperava mais mas serve.",4,positivo
+"O atendimento é fraco, tive problema na troca.",2,negativo
+"Atendimento atencioso, a entrega é maravilhoso.",5,positivo
+"Atende ao básico, razoável pelo preço.",1,negativo
+"Comum, sem destaque.",3,neutro
+"Tive problema na troca, ainda assim a embalagem era bonita, a embalagem é decepcionante.",1,negativo
+"O produto é decepcionante, abaixo do esperado.",1,negativo
+"A entrega é frustrante, tive problema na troca.",1,negativo
+"Entrega rápida, o pedido é maravilhoso.",5,positivo
+"Valeu o preço, o atendimento é excelente.",4,positivo
+"Mediano, cumpre o que promete, entrega rápida.",3,neutro
+"A entrega é decepcionante, demorou para chegar.",2,negativo
+"O produto é ótimo, recomendo.",4,positivo
+"Dentro do esperado, boa qualidade.",3,neutro
+"A embalagem é fraco, poderia ser melhor.",1,negativo
+"Entrega rápida, apesar de um arranhão na caixa, a entrega é bacana.",5,positivo
+"O pedido é muito bom, boa qualidade.",5,positivo
+"O produto é frustrante, poderia ser melhor.",2,negativo
+"Entrega rápida, o pedido é maravilhoso.",4,positivo
+"Chegou antes do prazo, a compra é maravilhoso.",5,positivo
+"Valeu o preço, a entrega é bacana.",4,positivo
+"Poderia ser melhor, a compra é frustrante.",2,negativo
+"Apesar de um arranhão na caixa, recomendo, o pedido é muito bom.",5,positivo
+"A compra é horrível, abaixo do esperado.",2,negativo
+Esperava mais mas serve.,2,negativo
+"Ainda assim a embalagem era bonita, a compra é fraco, abaixo do esperado.",5,positivo
+"A compra é ótimo, superou as expectativas.",5,positivo
+"Esperava mais mas serve, é ok.",3,neutro
+"Boa qualidade, o produto é bacana.",4,positivo
+"O atendimento é ruim, abaixo do esperado.",2,negativo
+"A compra é bacana, entrega rápida.",2,negativo
+"A embalagem é excelente, recomendo.",5,positivo
+"Demorou para chegar, a embalagem é horrível.",1,negativo
+"O produto é bacana, valeu o preço.",5,positivo
+"A compra é muito bom, recomendo.",5,positivo
+"Poderia ser melhor, esperava mais mas serve, cumpre o que promete.",3,neutro
+"Mediano, dentro do esperado, abaixo do esperado.",3,neutro
+"O atendimento é impecável, valeu o preço.",4,positivo
+"Razoável pelo preço, é ok.",5,positivo
+"Só achei meio caro, atendimento atencioso, o pedido é incrível.",4,positivo
+"Abaixo do esperado, a embalagem é frustrante.",2,negativo
+"Atendimento atencioso, o produto é incrível.",5,positivo
+"O produto é decepcionante, porém chegou rápido, demorou para chegar.",1,negativo
+"O atendimento é frustrante, poderia ser melhor.",2,negativo
+"A compra é ruim, chegou quebrado.",1,negativo
+"Voltarei a comprar, a compra é maravilhoso.",4,positivo
+"O pedido é fraco, não recomendo.",2,negativo
+"Tive problema na troca, o atendimento é fraco.",1,negativo
+"A embalagem é maravilhoso, boa qualidade.",4,positivo
+"O pedido é horrível, demorou para chegar.",1,negativo
+"A compra é muito bom, chegou antes do prazo.",5,positivo
+"Demorou para chegar, o produto é decepcionante.",2,negativo
+"A entrega é perfeito, valeu o preço.",5,positivo
+"A compra é frustrante, demorou para chegar.",1,negativo
+"Comum, sem destaque, esperava mais mas serve, voltarei a comprar.",3,neutro
+"Esperava mais mas serve, é ok.",3,neutro
+"Voltarei a comprar, a compra é ótimo.",5,positivo
+"Mas o atendimento tentou ajudar, o pedido é ruim, poderia ser melhor.",1,negativo
+"Veio com defeito, o produto é fraco.",1,negativo
+"Voltarei a comprar, a entrega é excelente.",4,positivo
+"Veio com defeito, a entrega é decepcionante.",4,positivo
+"Chegou quebrado, a compra é frustrante, ainda assim a embalagem era bonita.",4,positivo
+"Comum, sem destaque, é ok.",3,neutro
+"Entrega rápida, o pedido é bacana.",4,positivo
+"Dentro do esperado, cumpre o que promete, tive problema na troca.",3,neutro
+"O pedido é incrível, mas a entrega demorou um pouco, entrega rápida.",5,positivo
+"Superou as expectativas, mediano, atende ao básico.",3,neutro
+"Superou as expectativas, a compra é ótimo.",5,positivo
+"A embalagem é ótimo, valeu o preço.",5,positivo
+"Mas a entrega demorou um pouco, superou as expectativas, a compra é impecável.",5,positivo
+"Poderia ser melhor, a entrega é fraco.",2,negativo
+"Atende ao básico, atende ao básico.",3,neutro
+"Esperava mais mas serve, mediano.",5,positivo
+"Abaixo do esperado, a compra é frustrante.",2,negativo
+"A entrega é decepcionante, demorou para chegar.",1,negativo
+"Chegou quebrado, o atendimento é péssimo.",4,positivo
+"Atendimento atencioso, a entrega é perfeito.",4,positivo
+"O pedido é maravilhoso, só achei meio caro, atendimento atencioso.",5,positivo
+"Entrega rápida, a entrega é incrível.",4,positivo
+"O atendimento é péssimo, não recomendo.",4,positivo
+"Mediano, chegou quebrado, comum, sem destaque.",3,neutro
+"O produto é muito bom, atendimento atencioso.",4,positivo
+"Chegou antes do prazo, o atendimento é incrível.",4,positivo
+"Voltarei a comprar, o pedido é maravilhoso.",4,positivo
+"Só achei meio caro, o pedido é perfeito, valeu o preço.",5,positivo
+"Boa qualidade, mas a entrega demorou um pouco, o pedido é maravilhoso.",4,positivo
+"A compra é bacana, entrega rápida.",5,positivo
+"Entrega rápida, a entrega é bacana.",5,positivo
+"Esperava mais mas serve, razoável pelo preço.",3,neutro
+"A compra é péssimo, abaixo do esperado.",1,negativo
+"A entrega é maravilhoso, atendimento atencioso.",5,positivo
+"O produto é muito bom, voltarei a comprar.",4,positivo
+"Valeu o preço, a compra é impecável.",5,positivo
+"Razoável pelo preço, é ok.",1,negativo
+Dentro do esperado.,5,positivo
+"O pedido é impecável, voltarei a comprar.",5,positivo
+"Atende ao básico, razoável pelo preço.",3,neutro
+"Poderia ser melhor, a compra é frustrante, porém chegou rápido.",5,positivo
+"Cumpre o que promete, razoável pelo preço.",3,neutro
+"Recomendo, o produto é impecável.",5,positivo
+"Recomendo, o pedido é incrível.",4,positivo
+"Ainda assim a embalagem era bonita, veio com defeito, a compra é fraco.",2,negativo
+"A embalagem é ótimo, boa qualidade.",5,positivo
+Razoável pelo preço.,3,neutro
+"Mediano, dentro do esperado.",3,neutro
+"Chegou antes do prazo, o pedido é excelente.",5,positivo
+"A embalagem é perfeito, valeu o preço, só achei meio caro.",5,positivo
+"A compra é perfeito, atendimento atencioso.",5,positivo
+"Abaixo do esperado, a embalagem é ruim.",1,negativo
+"Atendimento atencioso, a compra é muito bom.",5,positivo
+"A embalagem é decepcionante, chegou quebrado.",2,negativo
+"O pedido é perfeito, voltarei a comprar.",4,positivo
+Razoável pelo preço.,3,neutro
+"Voltarei a comprar, o pedido é excelente.",5,positivo
+"A embalagem é bacana, atendimento atencioso.",4,positivo
+"Valeu o preço, a entrega é bacana.",5,positivo
+"Valeu o preço, o pedido é excelente, mas a entrega demorou um pouco.",5,positivo
+"Superou as expectativas, o pedido é maravilhoso.",5,positivo
+"A compra é incrível, entrega rápida.",5,positivo
+"Comum, sem destaque, demorou para chegar, mediano.",5,positivo
+"A entrega é maravilhoso, recomendo.",4,positivo
+"Atendimento atencioso, o atendimento é impecável.",4,positivo
+"A embalagem é bacana, chegou antes do prazo.",5,positivo
+Atende ao básico.,3,neutro
+"Mas a entrega demorou um pouco, a embalagem é bacana, valeu o preço.",1,negativo
+"A entrega é horrível, não recomendo.",2,negativo
+"O produto é incrível, boa qualidade.",5,positivo
+"Comum, sem destaque, comum, sem destaque.",3,neutro
+"A embalagem é incrível, entrega rápida.",3,neutro
+"Entrega rápida, o atendimento é bacana.",4,positivo
+"A compra é ótimo, superou as expectativas.",4,positivo
+"Entrega rápida, a entrega é impecável, mas a entrega demorou um pouco.",5,positivo
+"A compra é maravilhoso, entrega rápida.",5,positivo
+"A embalagem é ruim, abaixo do esperado.",2,negativo
+"O atendimento é fraco, veio com defeito.",2,negativo
+"O pedido é horrível, tive problema na troca.",2,negativo
+"Chegou antes do prazo, a entrega é incrível.",5,positivo
+"Boa qualidade, o pedido é muito bom.",4,positivo
+"Chegou antes do prazo, o atendimento é maravilhoso.",5,positivo
+"Entrega rápida, a entrega é impecável.",5,positivo
+"Recomendo, a entrega é muito bom, mas a entrega demorou um pouco.",4,positivo
+"Superou as expectativas, a compra é impecável.",5,positivo
+"A compra é maravilhoso, apesar de um arranhão na caixa, boa qualidade.",5,positivo
+"A embalagem é bacana, valeu o preço.",5,positivo
+"A embalagem é perfeito, voltarei a comprar.",4,positivo
+"O atendimento é horrível, abaixo do esperado.",2,negativo
+"Entrega rápida, o atendimento é ótimo.",4,positivo
+"O atendimento é maravilhoso, valeu o preço.",5,positivo
+"A embalagem é fraco, veio com defeito.",2,negativo
+"A compra é decepcionante, demorou para chegar.",1,negativo
+"Atendimento atencioso, o pedido é ótimo.",5,positivo
+"O produto é muito bom, entrega rápida.",5,positivo
+"A entrega é fraco, tive problema na troca.",1,negativo
+"Tive problema na troca, a entrega é frustrante.",1,negativo
+"A compra é bacana, recomendo.",4,positivo
+"O pedido é perfeito, voltarei a comprar, apesar de um arranhão na caixa.",5,positivo
+"A compra é ótimo, entrega rápida.",5,positivo
+"O produto é bacana, boa qualidade.",5,positivo
+"Veio com defeito, a embalagem é fraco.",5,positivo
+"Comum, sem destaque, mediano, abaixo do esperado.",3,neutro
+"Demorou para chegar, a compra é frustrante.",2,negativo
+"A embalagem é maravilhoso, valeu o preço.",4,positivo
+"Recomendo, a entrega é bacana.",3,neutro
+"O atendimento é impecável, mas a entrega demorou um pouco, valeu o preço.",5,positivo
+"A entrega é impecável, entrega rápida.",4,positivo
+"É ok, é ok.",4,positivo
+"Voltarei a comprar, a entrega é incrível.",5,positivo
+Dentro do esperado.,3,neutro
+"O atendimento é péssimo, veio com defeito.",2,negativo
+"A compra é decepcionante, não recomendo.",2,negativo
+"A compra é incrível, atendimento atencioso.",5,positivo
+"A entrega é frustrante, chegou quebrado.",2,negativo
+"O pedido é ruim, chegou quebrado.",2,negativo
+Esperava mais mas serve.,3,neutro
+"Poderia ser melhor, o atendimento é ruim.",2,negativo
+"Boa qualidade, o produto é perfeito.",5,positivo
+"Razoável pelo preço, mediano.",1,negativo
+"Entrega rápida, o pedido é maravilhoso.",5,positivo
+É ok.,3,neutro
+"Atende ao básico, esperava mais mas serve.",5,positivo
+"Chegou antes do prazo, o atendimento é impecável.",4,positivo
+"Apesar de um arranhão na caixa, a compra é muito bom, recomendo.",5,positivo
+"A compra é ruim, veio com defeito, porém chegou rápido.",1,negativo
+"A compra é impecável, boa qualidade.",5,positivo
+"Atendimento atencioso, razoável pelo preço, é ok.",3,neutro
+Dentro do esperado.,3,neutro
+"A embalagem é ótimo, recomendo.",5,positivo
+"Cumpre o que promete, razoável pelo preço.",3,neutro
+"Valeu o preço, a entrega é ótimo.",4,positivo
+"O produto é perfeito, entrega rápida.",5,positivo
+É ok.,3,neutro
+"Voltarei a comprar, apesar de um arranhão na caixa, a compra é incrível.",4,positivo
+"Valeu o preço, o pedido é muito bom, só achei meio caro.",4,positivo
+"O pedido é horrível, demorou para chegar, ainda assim a embalagem era bonita.",2,negativo
+"Comum, sem destaque.",3,neutro
+"Razoável pelo preço, mediano.",3,neutro
+"A embalagem é maravilhoso, valeu o preço.",4,positivo
+"Veio com defeito, o produto é frustrante.",1,negativo
+É ok.,3,neutro
+"Valeu o preço, a compra é impecável.",5,positivo
+"O produto é bacana, chegou antes do prazo.",4,positivo
+"O produto é muito bom, atendimento atencioso.",4,positivo
+"A embalagem é horrível, não recomendo.",1,negativo
+"O atendimento é perfeito, recomendo.",4,positivo
+Razoável pelo preço.,3,neutro
+"Mediano, veio com defeito.",2,negativo
+"O pedido é frustrante, poderia ser melhor.",1,negativo
+"A compra é impecável, entrega rápida.",4,positivo
+"A entrega é perfeito, atendimento atencioso.",5,positivo
+"O pedido é muito bom, recomendo.",1,negativo
+"Demorou para chegar, o atendimento é horrível.",5,positivo
+"O atendimento é perfeito, apesar de um arranhão na caixa, recomendo.",4,positivo
+"Superou as expectativas, o atendimento é bacana.",4,positivo
+"O atendimento é perfeito, apesar de um arranhão na caixa, atendimento atencioso.",5,positivo
+"O produto é bacana, só achei meio caro, boa qualidade.",5,positivo
+"Tive problema na troca, o pedido é horrível.",1,negativo
+"Chegou antes do prazo, a entrega é perfeito.",3,neutro
+"A embalagem é ótimo, voltarei a comprar.",5,positivo
+"Valeu o preço, a compra é bacana.",5,positivo
+"Recomendo, a entrega é bacana.",4,positivo
+"Dentro do esperado, razoável pelo preço.",3,neutro
+"Mas o atendimento tentou ajudar, não recomendo, a embalagem é péssimo.",1,negativo
+"O pedido é frustrante, abaixo do esperado.",2,negativo
+"Superou as expectativas, a compra é ótimo.",5,positivo
+"Veio com defeito, o atendimento é fraco.",4,positivo
+"O atendimento é muito bom, superou as expectativas.",5,positivo
+"O atendimento é maravilhoso, boa qualidade.",4,positivo
+"Entrega rápida, o produto é perfeito.",5,positivo
+"Poderia ser melhor, o atendimento é péssimo.",4,positivo
+"Recomendo, o pedido é maravilhoso.",5,positivo
+"Valeu o preço, o pedido é incrível.",4,positivo
+"Atende ao básico, cumpre o que promete.",3,neutro
+"Valeu o preço, a embalagem é bacana.",5,positivo
+"A compra é ruim, mas o atendimento tentou ajudar, demorou para chegar.",2,negativo
+"Não recomendo, a entrega é horrível.",1,negativo
+"É ok, atende ao básico.",3,neutro
+"A compra é perfeito, entrega rápida.",1,negativo
+Razoável pelo preço.,3,neutro
+"Boa qualidade, a compra é maravilhoso.",5,positivo
+"Comum, sem destaque, dentro do esperado.",3,neutro
+"Recomendo, o pedido é maravilhoso.",5,positivo
+"Voltarei a comprar, o atendimento é ótimo.",5,positivo
+"A embalagem é impecável, boa qualidade.",5,positivo
+"Atendimento atencioso, o pedido é perfeito, apesar de um arranhão na caixa.",4,positivo
+"A embalagem é péssimo, chegou quebrado.",3,neutro
+"Superou as expectativas, a embalagem é impecável.",4,positivo
+É ok.,3,neutro
+"Apesar de um arranhão na caixa, a compra é bacana, voltarei a comprar.",4,positivo
+"O pedido é incrível, voltarei a comprar.",4,positivo
+"Entrega rápida, o pedido é muito bom.",4,positivo
+"Recomendo, o atendimento é muito bom.",5,positivo
+Razoável pelo preço.,3,neutro
+Esperava mais mas serve.,3,neutro
+"Valeu o preço, o pedido é maravilhoso.",5,positivo
+"A embalagem é excelente, boa qualidade.",5,positivo
+"O atendimento é ótimo, superou as expectativas.",5,positivo
+"Superou as expectativas, o pedido é incrível.",5,positivo
+"Abaixo do esperado, o atendimento é ruim.",1,negativo
+"A embalagem é incrível, recomendo.",4,positivo
+"Demorou para chegar, a compra é horrível.",2,negativo
+"O pedido é maravilhoso, superou as expectativas.",5,positivo
+"O atendimento é horrível, demorou para chegar, porém chegou rápido.",2,negativo
+"O produto é péssimo, tive problema na troca, ainda assim a embalagem era bonita.",2,negativo
+"Atende ao básico, razoável pelo preço.",5,positivo
+"Mediano, atende ao básico.",4,positivo
+"Voltarei a comprar, a entrega é ótimo.",5,positivo
+"Só achei meio caro, superou as expectativas, a entrega é ótimo.",4,positivo
+"Poderia ser melhor, a compra é péssimo.",5,positivo
+"Abaixo do esperado, o atendimento é frustrante.",2,negativo
+"Tive problema na troca, a entrega é péssimo, ainda assim a embalagem era bonita.",2,negativo
+"O pedido é ruim, abaixo do esperado.",1,negativo
+"Chegou antes do prazo, mas a entrega demorou um pouco, o atendimento é perfeito.",4,positivo
+"Esperava mais mas serve, razoável pelo preço, entrega rápida.",3,neutro
+Mediano.,2,negativo
+"Atendimento atencioso, a embalagem é perfeito.",4,positivo
+"Chegou antes do prazo, a embalagem é maravilhoso.",5,positivo
+"É ok, atende ao básico.",3,neutro
+"Dentro do esperado, é ok.",3,neutro
+"O atendimento é incrível, boa qualidade, apesar de um arranhão na caixa.",4,positivo
+"Comum, sem destaque.",3,neutro
+"Mas a entrega demorou um pouco, o produto é bacana, recomendo.",5,positivo
+Mediano.,3,neutro
+"Comum, sem destaque, comum, sem destaque.",3,neutro
+"Chegou antes do prazo, a entrega é impecável.",5,positivo
+"Só achei meio caro, o atendimento é bacana, superou as expectativas.",4,positivo
+"É ok, esperava mais mas serve.",3,neutro
+"O pedido é perfeito, recomendo.",4,positivo
+"Tive problema na troca, o produto é frustrante.",1,negativo
+"Não recomendo, esperava mais mas serve, dentro do esperado.",3,neutro
+"Atendimento atencioso, o atendimento é bacana.",4,positivo
+"Comum, sem destaque, é ok.",3,neutro
+"Atendimento atencioso, o produto é maravilhoso, mas a entrega demorou um pouco.",5,positivo
+"O pedido é perfeito, boa qualidade.",4,positivo
+"Boa qualidade, o atendimento é bacana.",2,negativo
+"Mas a entrega demorou um pouco, voltarei a comprar, a entrega é maravilhoso.",5,positivo
+"Abaixo do esperado, o atendimento é péssimo.",3,neutro
+"A entrega é excelente, só achei meio caro, chegou antes do prazo.",5,positivo
+"O produto é fraco, poderia ser melhor.",4,positivo
+"Superou as expectativas, mas a entrega demorou um pouco, a embalagem é ótimo.",5,positivo
+"O produto é muito bom, boa qualidade.",5,positivo
+"O atendimento é fraco, demorou para chegar.",3,neutro
+"O produto é incrível, valeu o preço.",5,positivo
+"Chegou quebrado, o pedido é péssimo.",2,negativo
+"Demorou para chegar, o atendimento é ruim, mas o atendimento tentou ajudar.",1,negativo
+"O atendimento é muito bom, recomendo.",4,positivo
+"Mediano, atende ao básico.",3,neutro
+"Cumpre o que promete, esperava mais mas serve.",5,positivo
+"Veio com defeito, o pedido é fraco.",2,negativo
+"Comum, sem destaque.",5,positivo
+"Atendimento atencioso, o pedido é impecável.",5,positivo
+"A compra é muito bom, atendimento atencioso.",5,positivo
+"Poderia ser melhor, o produto é decepcionante.",2,negativo
+Mediano.,3,neutro
+"Não recomendo, a compra é péssimo.",2,negativo
+"A compra é bacana, atendimento atencioso.",4,positivo
+"A embalagem é excelente, voltarei a comprar.",4,positivo
+"Poderia ser melhor, a entrega é decepcionante.",2,negativo
+"O pedido é ótimo, chegou antes do prazo.",5,positivo
+"Mediano, dentro do esperado, superou as expectativas.",3,neutro
+"O produto é horrível, abaixo do esperado.",1,negativo
+Razoável pelo preço.,3,neutro
+"Mas a entrega demorou um pouco, a embalagem é bacana, voltarei a comprar.",4,positivo
+"O pedido é decepcionante, demorou para chegar.",1,negativo
+"A embalagem é incrível, só achei meio caro, valeu o preço.",5,positivo
+"Atendimento atencioso, o atendimento é perfeito.",5,positivo
+"Boa qualidade, a embalagem é ótimo.",4,positivo
+"A entrega é perfeito, voltarei a comprar.",5,positivo
+"O atendimento é maravilhoso, entrega rápida.",5,positivo
+"Dentro do esperado, atende ao básico.",3,neutro
+"A embalagem é incrível, boa qualidade.",4,positivo
+"Valeu o preço, o pedido é ótimo.",5,positivo
+"O produto é perfeito, entrega rápida.",4,positivo
+"Demorou para chegar, a embalagem é frustrante.",2,negativo
+"Recomendo, a entrega é impecável.",5,positivo
+"Não recomendo, o atendimento é decepcionante.",1,negativo
+"A entrega é perfeito, atendimento atencioso.",4,positivo
+"Superou as expectativas, a entrega é bacana.",5,positivo
+"A compra é muito bom, chegou antes do prazo.",5,positivo
+"O pedido é horrível, demorou para chegar.",2,negativo
+"Recomendo, o atendimento é excelente.",5,positivo
+"Chegou antes do prazo, mas a entrega demorou um pouco, o pedido é excelente.",4,positivo
+"Veio com defeito, o pedido é ruim.",2,negativo
+"Voltarei a comprar, apesar de um arranhão na caixa, o atendimento é impecável.",3,neutro
+"Ainda assim a embalagem era bonita, veio com defeito, o pedido é ruim.",4,positivo
+Mediano.,3,neutro
+"Não recomendo, a entrega é decepcionante.",1,negativo
+"Poderia ser melhor, a compra é frustrante.",2,negativo
+"Atendimento atencioso, o pedido é muito bom.",5,positivo
+"O pedido é decepcionante, chegou quebrado.",1,negativo
+"O atendimento é excelente, recomendo.",4,positivo
+"Tive problema na troca, mas o atendimento tentou ajudar, a entrega é horrível.",2,negativo
+"Tive problema na troca, a entrega é fraco.",1,negativo
+"Dentro do esperado, é ok.",3,neutro
+"O produto é bacana, mas a entrega demorou um pouco, chegou antes do prazo.",4,positivo
+"A embalagem é frustrante, não recomendo.",1,negativo
+"O atendimento é excelente, valeu o preço.",2,negativo
+"O produto é fraco, tive problema na troca.",1,negativo
+"Poderia ser melhor, a embalagem é fraco.",2,negativo
+"O atendimento é perfeito, boa qualidade.",5,positivo
+"Entrega rápida, mas a entrega demorou um pouco, o atendimento é impecável.",5,positivo
+"O produto é decepcionante, demorou para chegar.",2,negativo
+"Voltarei a comprar, a embalagem é ótimo.",5,positivo
+Atende ao básico.,3,neutro
+"Chegou quebrado, o produto é decepcionante.",1,negativo
+"Não recomendo, ainda assim a embalagem era bonita, o produto é fraco.",2,negativo
+"Mas a entrega demorou um pouco, atendimento atencioso, a entrega é incrível.",5,positivo
+"Esperava mais mas serve, razoável pelo preço.",3,neutro
+"O pedido é fraco, demorou para chegar.",1,negativo
+"Demorou para chegar, o produto é decepcionante.",1,negativo
+"O pedido é muito bom, valeu o preço.",4,positivo
+"Demorou para chegar, o produto é ruim.",2,negativo
+"O pedido é incrível, atendimento atencioso.",5,positivo
+"O atendimento é excelente, chegou antes do prazo.",5,positivo
+"O pedido é bacana, chegou antes do prazo.",5,positivo
+"Chegou antes do prazo, mas a entrega demorou um pouco, o produto é perfeito.",4,positivo
+Mediano.,3,neutro
+"A compra é maravilhoso, entrega rápida.",5,positivo
+"A compra é incrível, valeu o preço.",4,positivo
+"Entrega rápida, o pedido é ótimo.",4,positivo
+"Razoável pelo preço, comum, sem destaque.",3,neutro
+"Poderia ser melhor, o produto é frustrante.",2,negativo
+"Veio com defeito, a embalagem é decepcionante.",1,negativo
+"Chegou quebrado, a embalagem é decepcionante, ainda assim a embalagem era bonita.",2,negativo
+Cumpre o que promete.,3,neutro
+"A compra é incrível, recomendo.",5,positivo
+Esperava mais mas serve.,3,neutro
+"Não recomendo, o pedido é decepcionante.",2,negativo
+"A embalagem é frustrante, veio com defeito.",1,negativo
+"A embalagem é incrível, entrega rápida.",4,positivo
+"Superou as expectativas, o pedido é incrível.",5,positivo
+"O produto é ruim, mas o atendimento tentou ajudar, abaixo do esperado.",4,positivo
+"Abaixo do esperado, o produto é ruim.",2,negativo
+"O atendimento é muito bom, chegou antes do prazo.",4,positivo
+"O pedido é fraco, chegou quebrado.",2,negativo
+"O produto é impecável, boa qualidade.",5,positivo
+"A embalagem é fraco, não recomendo.",1,negativo
+"O produto é muito bom, valeu o preço.",5,positivo
+"A embalagem é maravilhoso, atendimento atencioso, mas a entrega demorou um pouco.",4,positivo
+"O atendimento é péssimo, veio com defeito.",2,negativo
+"Chegou quebrado, o produto é frustrante, mas o atendimento tentou ajudar.",1,negativo
+"Atende ao básico, comum, sem destaque.",3,neutro
+"Chegou antes do prazo, mas a entrega demorou um pouco, o atendimento é impecável.",5,positivo
+"Mas a entrega demorou um pouco, boa qualidade, a entrega é excelente.",5,positivo
+"Não recomendo, o atendimento é horrível.",2,negativo
+"A entrega é fraco, veio com defeito.",2,negativo
+"Poderia ser melhor, o pedido é frustrante.",2,negativo
+"Não recomendo, o produto é decepcionante.",2,negativo
+"Recomendo, o produto é impecável.",4,positivo
+"Poderia ser melhor, a entrega é horrível.",2,negativo
+"Atendimento atencioso, a entrega é perfeito.",4,positivo
+"O atendimento é incrível, chegou antes do prazo.",5,positivo
+"Demorou para chegar, a compra é decepcionante.",1,negativo
+Dentro do esperado.,5,positivo
+"O pedido é fraco, demorou para chegar.",1,negativo
+"A compra é incrível, boa qualidade.",4,positivo
+"Chegou antes do prazo, a compra é maravilhoso.",4,positivo
+"A embalagem é impecável, voltarei a comprar.",5,positivo
+"O pedido é frustrante, abaixo do esperado.",1,negativo
+"A compra é muito bom, valeu o preço.",4,positivo
+"Mas a entrega demorou um pouco, a entrega é impecável, valeu o preço.",5,positivo
+"O produto é impecável, superou as expectativas.",5,positivo
+"Chegou antes do prazo, o atendimento é ótimo.",5,positivo
+"A compra é péssimo, não recomendo.",1,negativo
+"O produto é perfeito, chegou antes do prazo.",5,positivo
+"Boa qualidade, cumpre o que promete.",3,neutro
+"Cumpre o que promete, esperava mais mas serve.",3,neutro
+Razoável pelo preço.,2,negativo
+"Valeu o preço, o produto é maravilhoso.",4,positivo
+"O pedido é impecável, só achei meio caro, superou as expectativas.",1,negativo
+"Comum, sem destaque.",3,neutro
+"A compra é ruim, chegou quebrado.",2,negativo
+Cumpre o que promete.,3,neutro
+"Boa qualidade, a compra é muito bom.",4,positivo
+Esperava mais mas serve.,2,negativo
+"Boa qualidade, a compra é perfeito.",5,positivo
+Atende ao básico.,3,neutro
+"O atendimento é péssimo, veio com defeito.",4,positivo
+"Não recomendo, o produto é horrível.",4,positivo
+"Chegou quebrado, a entrega é horrível.",1,negativo
+"A entrega é maravilhoso, chegou antes do prazo.",4,positivo
+"Tive problema na troca, o atendimento é frustrante.",1,negativo
+Razoável pelo preço.,3,neutro
+"É ok, dentro do esperado.",3,neutro
+"O pedido é bacana, recomendo.",5,positivo
+"Demorou para chegar, comum, sem destaque.",5,positivo
+"A embalagem é ruim, veio com defeito.",1,negativo
+"O pedido é incrível, voltarei a comprar.",5,positivo
+"A compra é perfeito, boa qualidade.",5,positivo
+"A compra é muito bom, atendimento atencioso.",4,positivo
+"Não recomendo, o produto é decepcionante.",3,neutro
+"O pedido é ótimo, só achei meio caro, boa qualidade.",5,positivo
+"O pedido é muito bom, atendimento atencioso.",5,positivo
+"Esperava mais mas serve, atende ao básico.",3,neutro
+"Boa qualidade, o atendimento é ótimo.",4,positivo
+"Comum, sem destaque, razoável pelo preço, veio com defeito.",3,neutro
+"O pedido é horrível, poderia ser melhor.",2,negativo
+Mediano.,3,neutro
+"O atendimento é muito bom, voltarei a comprar.",4,positivo
+"Valeu o preço, o atendimento é ótimo.",4,positivo
+"Só achei meio caro, entrega rápida, o atendimento é incrível.",4,positivo
+Razoável pelo preço.,2,negativo
+"Tive problema na troca, a compra é horrível, mas o atendimento tentou ajudar.",1,negativo
+"Mas o atendimento tentou ajudar, tive problema na troca, a entrega é decepcionante.",1,negativo
+"Esperava mais mas serve, razoável pelo preço.",3,neutro
+"Boa qualidade, a embalagem é incrível.",5,positivo
+"Valeu o preço, o produto é perfeito.",5,positivo
+"Abaixo do esperado, a embalagem é horrível.",4,positivo
+"Recomendo, a embalagem é bacana.",5,positivo
+"O pedido é ruim, tive problema na troca.",5,positivo
+"Recomendo, a embalagem é incrível.",4,positivo
+"Superou as expectativas, o produto é incrível.",5,positivo
+"O pedido é incrível, chegou antes do prazo.",4,positivo
+Mediano.,3,neutro
+"A compra é frustrante, abaixo do esperado, porém chegou rápido.",2,negativo
+"Chegou antes do prazo, a entrega é impecável.",4,positivo
+"O produto é frustrante, chegou quebrado.",1,negativo
+"Poderia ser melhor, a embalagem é frustrante.",2,negativo
+"Mas a entrega demorou um pouco, valeu o preço, a compra é bacana.",4,positivo
+"A embalagem é excelente, entrega rápida.",4,positivo
+"Entrega rápida, esperava mais mas serve.",3,neutro
+"A entrega é maravilhoso, chegou antes do prazo.",5,positivo
+"Razoável pelo preço, dentro do esperado.",3,neutro
+"A entrega é ótimo, só achei meio caro, voltarei a comprar.",5,positivo
+"O atendimento é perfeito, superou as expectativas.",5,positivo
+"Superou as expectativas, o pedido é excelente.",5,positivo
+"A embalagem é muito bom, entrega rápida.",5,positivo
+"O pedido é fraco, tive problema na troca.",1,negativo
+"Valeu o preço, o atendimento é excelente.",5,positivo
+"A compra é perfeito, voltarei a comprar.",5,positivo
+"Chegou quebrado, o produto é decepcionante.",1,negativo
+"Voltarei a comprar, o atendimento é bacana.",5,positivo
+"Voltarei a comprar, a compra é perfeito.",5,positivo
+"Recomendo, o pedido é bacana.",4,positivo
+"Dentro do esperado, é ok.",3,neutro
+"Superou as expectativas, o atendimento é incrível.",4,positivo
+"O produto é maravilhoso, recomendo.",5,positivo
+"Comum, sem destaque, cumpre o que promete.",2,negativo
+"Entrega rápida, a entrega é bacana.",5,positivo
+"A embalagem é frustrante, chegou quebrado.",2,negativo
+Atende ao básico.,3,neutro
+"Chegou antes do prazo, o atendimento é ótimo.",5,positivo
+"Esperava mais mas serve, é ok.",4,positivo
+"Comum, sem destaque.",3,neutro
+"A compra é ótimo, entrega rápida, apesar de um arranhão na caixa.",5,positivo
+"Atendimento atencioso, o produto é bacana, apesar de um arranhão na caixa.",4,positivo
+"O atendimento é impecável, voltarei a comprar.",5,positivo
+"É ok, esperava mais mas serve.",3,neutro
+"Entrega rápida, a entrega é bacana.",5,positivo
+"É ok, dentro do esperado.",4,positivo
+"Recomendo, a entrega é excelente.",5,positivo
+"Recomendo, a compra é maravilhoso.",5,positivo
+"Boa qualidade, o pedido é ótimo.",4,positivo
+"O produto é muito bom, entrega rápida.",5,positivo
+É ok.,3,neutro
+"Valeu o preço, o atendimento é impecável.",4,positivo
+"O atendimento é horrível, poderia ser melhor.",2,negativo
+"O produto é bacana, chegou antes do prazo.",5,positivo
+"Voltarei a comprar, a compra é impecável.",4,positivo
+"O atendimento é muito bom, boa qualidade.",5,positivo
+"Atendimento atencioso, a entrega é excelente.",4,positivo
+"A compra é impecável, boa qualidade.",5,positivo
+"Apesar de um arranhão na caixa, o pedido é excelente, boa qualidade.",5,positivo
+"O produto é horrível, ainda assim a embalagem era bonita, veio com defeito.",2,negativo
+"Poderia ser melhor, mas o atendimento tentou ajudar, a embalagem é péssimo.",2,negativo
+"O produto é perfeito, voltarei a comprar.",4,positivo
+"Comum, sem destaque.",3,neutro
+"Valeu o preço, o pedido é excelente.",4,positivo
+"A entrega é perfeito, entrega rápida.",5,positivo
+"Chegou antes do prazo, comum, sem destaque.",1,negativo
+"O produto é decepcionante, demorou para chegar.",2,negativo
+"Dentro do esperado, é ok.",3,neutro
+"Entrega rápida, o atendimento é muito bom.",5,positivo
+Dentro do esperado.,3,neutro
+"Tive problema na troca, a embalagem é ruim.",2,negativo
+"A embalagem é muito bom, boa qualidade.",4,positivo
+"Voltarei a comprar, a embalagem é muito bom.",4,positivo
+É ok.,3,neutro
+"O pedido é maravilhoso, só achei meio caro, chegou antes do prazo.",3,neutro
+"A compra é frustrante, poderia ser melhor.",2,negativo
+"A embalagem é ruim, não recomendo.",5,positivo
+"O produto é maravilhoso, superou as expectativas, só achei meio caro.",3,neutro
+"Superou as expectativas, a embalagem é bacana.",2,negativo
+"A embalagem é ruim, abaixo do esperado.",1,negativo
+"Tive problema na troca, a entrega é horrível.",2,negativo
+"A embalagem é ótimo, recomendo.",4,positivo
+Esperava mais mas serve.,3,neutro
+"O produto é frustrante, poderia ser melhor.",1,negativo
+"Poderia ser melhor, o produto é péssimo.",3,neutro
+"O pedido é perfeito, entrega rápida.",4,positivo
+"O pedido é frustrante, abaixo do esperado.",1,negativo
+"Só achei meio caro, a compra é muito bom, chegou antes do prazo.",4,positivo
+"Mas a entrega demorou um pouco, atendimento atencioso, a embalagem é muito bom.",5,positivo
+"Boa qualidade, o produto é impecável.",5,positivo
+"Chegou quebrado, o atendimento é ruim.",2,negativo
+"O produto é bacana, recomendo.",4,positivo
+"A entrega é fraco, não recomendo.",5,positivo
+"Chegou quebrado, o atendimento é frustrante.",2,negativo
+Dentro do esperado.,3,neutro
+"O pedido é péssimo, demorou para chegar.",2,negativo
+"A entrega é muito bom, chegou antes do prazo.",5,positivo
+"Não recomendo, o pedido é frustrante, porém chegou rápido.",1,negativo
+Mediano.,3,neutro
+"A entrega é incrível, atendimento atencioso, só achei meio caro.",4,positivo
+"Mediano, cumpre o que promete.",5,positivo
+"O atendimento é fraco, demorou para chegar, porém chegou rápido.",1,negativo
+"O atendimento é muito bom, atendimento atencioso.",4,positivo
+"O pedido é impecável, entrega rápida.",5,positivo
+"Esperava mais mas serve, atende ao básico.",3,neutro
+"O produto é perfeito, boa qualidade.",5,positivo
+"O pedido é impecável, superou as expectativas.",4,positivo
+"Mas a entrega demorou um pouco, superou as expectativas, a compra é ótimo.",5,positivo
+"O produto é ótimo, atendimento atencioso.",5,positivo
+"A entrega é ótimo, boa qualidade.",4,positivo
+Esperava mais mas serve.,3,neutro
+"Só achei meio caro, o pedido é bacana, superou as expectativas.",5,positivo
+"Boa qualidade, o pedido é ótimo.",5,positivo
+"Comum, sem destaque, comum, sem destaque.",3,neutro
+"Recomendo, o atendimento é muito bom.",5,positivo
+"O produto é impecável, voltarei a comprar.",5,positivo
+"O pedido é péssimo, poderia ser melhor.",1,negativo
+"O atendimento é ótimo, atendimento atencioso.",4,positivo
+"A embalagem é bacana, apesar de um arranhão na caixa, chegou antes do prazo.",5,positivo
+"Superou as expectativas, a compra é maravilhoso.",5,positivo
+"A embalagem é bacana, atendimento atencioso.",5,positivo
+"O produto é impecável, apesar de um arranhão na caixa, voltarei a comprar.",4,positivo
+"Abaixo do esperado, o produto é frustrante.",1,negativo
+"Não recomendo, o atendimento é frustrante.",2,negativo
+"Comum, sem destaque.",4,positivo
+"Veio com defeito, é ok.",3,neutro
+"A compra é péssimo, abaixo do esperado.",1,negativo
+"Chegou quebrado, o atendimento é ruim.",5,positivo
+"A embalagem é ótimo, superou as expectativas.",4,positivo
+"Atendimento atencioso, mediano.",3,neutro
+"Valeu o preço, apesar de um arranhão na caixa, o pedido é muito bom.",5,positivo
+"Abaixo do esperado, a compra é horrível.",2,negativo
+"A embalagem é péssimo, poderia ser melhor.",1,negativo
+"A embalagem é frustrante, veio com defeito.",2,negativo
+"Superou as expectativas, a entrega é ótimo.",4,positivo
+"Voltarei a comprar, o atendimento é maravilhoso.",4,positivo
+"A entrega é decepcionante, não recomendo.",1,negativo
+"O atendimento é péssimo, poderia ser melhor.",1,negativo
+"Valeu o preço, a embalagem é bacana.",5,positivo
+"Só achei meio caro, atendimento atencioso, a entrega é perfeito.",5,positivo
+"Abaixo do esperado, o pedido é péssimo.",2,negativo
+"A embalagem é incrível, recomendo.",5,positivo
+"Atendimento atencioso, o atendimento é ótimo.",5,positivo
+"Valeu o preço, a entrega é muito bom.",5,positivo
+"O produto é ruim, chegou quebrado.",1,negativo
+"Entrega rápida, comum, sem destaque.",5,positivo
+Atende ao básico.,3,neutro
+"A compra é muito bom, recomendo.",2,negativo
+"Apesar de um arranhão na caixa, a compra é ótimo, boa qualidade.",4,positivo
+"A entrega é excelente, chegou antes do prazo.",5,positivo
+"Cumpre o que promete, chegou antes do prazo.",1,negativo
+"Superou as expectativas, a entrega é muito bom.",4,positivo
+"É ok, razoável pelo preço.",3,neutro
+"Atendimento atencioso, a entrega é perfeito.",5,positivo
+"O produto é excelente, superou as expectativas.",5,positivo
+"Não recomendo, a compra é ruim.",1,negativo
+"Não recomendo, a compra é ruim.",1,negativo
+"Cumpre o que promete, esperava mais mas serve.",2,negativo
+"Atende ao básico, chegou quebrado.",5,positivo
+"O pedido é excelente, superou as expectativas.",4,positivo
+"Atendimento atencioso, atende ao básico.",3,neutro
+"Chegou antes do prazo, a embalagem é incrível.",3,neutro
+"Chegou antes do prazo, o pedido é excelente.",4,positivo
+"A embalagem é excelente, recomendo.",5,positivo
+"A embalagem é impecável, entrega rápida.",4,positivo
+"A embalagem é ruim, abaixo do esperado, mas o atendimento tentou ajudar.",2,negativo
+Atende ao básico.,3,neutro
+"Recomendo, só achei meio caro, a entrega é excelente.",4,positivo
+Mediano.,3,neutro
+"Recomendo, o produto é incrível.",5,positivo
+"Porém chegou rápido, o pedido é péssimo, veio com defeito.",1,negativo
+"Mas a entrega demorou um pouco, entrega rápida, a entrega é impecável.",5,positivo
+"Razoável pelo preço, dentro do esperado.",3,neutro
+"Cumpre o que promete, mediano.",3,neutro
+"O atendimento é horrível, ainda assim a embalagem era bonita, não recomendo.",2,negativo
+"A compra é maravilhoso, recomendo.",4,positivo
+"A embalagem é péssimo, chegou quebrado.",2,negativo
+"É ok, tive problema na troca, razoável pelo preço.",3,neutro
+"O atendimento é bacana, superou as expectativas.",4,positivo
+"Superou as expectativas, a entrega é perfeito.",5,positivo
+"Boa qualidade, a embalagem é maravilhoso.",5,positivo
+"Voltarei a comprar, o produto é excelente.",5,positivo
+"Poderia ser melhor, o pedido é ruim.",2,negativo
+"Tive problema na troca, o pedido é ruim.",1,negativo
+"Demorou para chegar, comum, sem destaque.",2,negativo
+"A embalagem é fraco, poderia ser melhor.",2,negativo
+"Ainda assim a embalagem era bonita, abaixo do esperado, o atendimento é ruim.",2,negativo
+"Esperava mais mas serve, superou as expectativas, razoável pelo preço.",3,neutro
+"O produto é excelente, atendimento atencioso.",4,positivo
+"O pedido é perfeito, atendimento atencioso.",5,positivo
+Atende ao básico.,5,positivo
+"Valeu o preço, o produto é incrível.",4,positivo
+"O pedido é muito bom, boa qualidade.",5,positivo
+"Comum, sem destaque, comum, sem destaque.",3,neutro
+"A embalagem é maravilhoso, chegou antes do prazo.",4,positivo
+"Não recomendo, o atendimento é péssimo.",5,positivo
+"O produto é ótimo, valeu o preço.",4,positivo
+"O produto é péssimo, tive problema na troca.",2,negativo
+"O pedido é maravilhoso, atendimento atencioso.",4,positivo
+"Recomendo, o produto é maravilhoso.",5,positivo
+"O produto é péssimo, chegou quebrado.",1,negativo
+"A embalagem é ótimo, superou as expectativas.",5,positivo
+Atende ao básico.,3,neutro
+"O produto é perfeito, boa qualidade.",4,positivo
+"O pedido é impecável, superou as expectativas.",5,positivo
+"Boa qualidade, o produto é incrível.",5,positivo
+"A entrega é fraco, poderia ser melhor.",4,positivo
+"Atende ao básico, atende ao básico.",3,neutro
+"Abaixo do esperado, a compra é péssimo, ainda assim a embalagem era bonita.",1,negativo
+"Entrega rápida, o produto é perfeito.",4,positivo
+"Apesar de um arranhão na caixa, o atendimento é bacana, atendimento atencioso.",5,positivo
+"O pedido é ruim, mas o atendimento tentou ajudar, tive problema na troca.",1,negativo
+"Mas o atendimento tentou ajudar, poderia ser melhor, a embalagem é ruim.",2,negativo
+Dentro do esperado.,3,neutro
+"A entrega é bacana, recomendo.",4,positivo
+"Cumpre o que promete, poderia ser melhor, comum, sem destaque.",3,neutro
+Razoável pelo preço.,3,neutro
+"O atendimento é impecável, mas a entrega demorou um pouco, recomendo.",5,positivo
+"O pedido é ruim, veio com defeito.",1,negativo
+"Demorou para chegar, o atendimento é frustrante.",4,positivo
+"O atendimento é fraco, poderia ser melhor.",2,negativo
+"A compra é perfeito, mas a entrega demorou um pouco, chegou antes do prazo.",5,positivo
+"O produto é muito bom, recomendo.",5,positivo
+"Chegou antes do prazo, a compra é muito bom.",4,positivo
+"A embalagem é ótimo, atendimento atencioso.",5,positivo
+"Porém chegou rápido, o atendimento é fraco, chegou quebrado.",2,negativo
+"Demorou para chegar, a compra é decepcionante.",1,negativo
+"Superou as expectativas, apesar de um arranhão na caixa, o pedido é excelente.",4,positivo
+"A embalagem é maravilhoso, entrega rápida.",5,positivo
+Razoável pelo preço.,3,neutro
+"Demorou para chegar, a embalagem é ruim.",2,negativo
+"O produto é impecável, boa qualidade.",4,positivo
+"Comum, sem destaque, mediano.",3,neutro
+"A compra é bacana, chegou antes do prazo.",5,positivo
+"A compra é incrível, superou as expectativas.",5,positivo
+"Superou as expectativas, o produto é impecável.",5,positivo
+"Não recomendo, o produto é fraco.",2,negativo
+"A entrega é maravilhoso, voltarei a comprar.",4,positivo
+"Veio com defeito, a entrega é fraco.",1,negativo
+"É ok, mediano.",4,positivo
+"Esperava mais mas serve, boa qualidade, é ok.",3,neutro
+"Voltarei a comprar, o atendimento é impecável.",4,positivo
+"Boa qualidade, a entrega é incrível.",4,positivo
+"Apesar de um arranhão na caixa, a compra é muito bom, superou as expectativas.",5,positivo
+"Boa qualidade, o atendimento é incrível.",4,positivo
+"O atendimento é decepcionante, poderia ser melhor.",2,negativo
+É ok.,3,neutro
+"Esperava mais mas serve, chegou antes do prazo, cumpre o que promete.",3,neutro
+"Chegou quebrado, o pedido é péssimo.",2,negativo
+"Entrega rápida, a embalagem é excelente.",5,positivo
+É ok.,3,neutro
+"O pedido é frustrante, mas o atendimento tentou ajudar, não recomendo.",2,negativo
+"Valeu o preço, a embalagem é muito bom.",5,positivo
+"Comum, sem destaque, esperava mais mas serve, não recomendo.",3,neutro
+"A entrega é ótimo, entrega rápida.",5,positivo
+"A entrega é frustrante, chegou quebrado.",2,negativo
+"A entrega é perfeito, recomendo.",5,positivo
+Dentro do esperado.,3,neutro
+Atende ao básico.,3,neutro
+"A embalagem é maravilhoso, boa qualidade.",5,positivo
+Razoável pelo preço.,3,neutro
+"O produto é ruim, poderia ser melhor, porém chegou rápido.",1,negativo
+"O produto é maravilhoso, valeu o preço.",4,positivo
+"O pedido é decepcionante, não recomendo.",5,positivo
+"Atendimento atencioso, só achei meio caro, a compra é impecável.",5,positivo
+"Voltarei a comprar, a embalagem é perfeito.",4,positivo
+Atende ao básico.,3,neutro
+"Atendimento atencioso, apesar de um arranhão na caixa, a embalagem é muito bom.",4,positivo
+"A entrega é perfeito, atendimento atencioso.",4,positivo
+"Atendimento atencioso, a embalagem é ótimo.",5,positivo
+"Superou as expectativas, a embalagem é muito bom.",5,positivo
+Dentro do esperado.,3,neutro
+"O produto é incrível, entrega rápida.",5,positivo
+"A compra é ótimo, boa qualidade.",5,positivo
+"Veio com defeito, o pedido é ruim.",1,negativo
+"A embalagem é frustrante, tive problema na troca.",3,neutro
+Razoável pelo preço.,3,neutro
+"O produto é maravilhoso, recomendo.",5,positivo
+"O pedido é péssimo, não recomendo.",1,negativo
+Esperava mais mas serve.,3,neutro
+"O produto é incrível, mas a entrega demorou um pouco, valeu o preço.",5,positivo
+"O produto é incrível, recomendo.",4,positivo
+"A compra é incrível, voltarei a comprar.",4,positivo
+"Chegou quebrado, o produto é decepcionante.",2,negativo
+"Demorou para chegar, o atendimento é fraco.",2,negativo
+"Valeu o preço, o produto é ótimo.",5,positivo
+"Valeu o preço, a compra é maravilhoso.",4,positivo
+"O produto é frustrante, abaixo do esperado.",1,negativo
+"O produto é perfeito, valeu o preço.",4,positivo
+"Mediano, esperava mais mas serve.",5,positivo
+"Valeu o preço, o produto é impecável.",5,positivo
+"Razoável pelo preço, atende ao básico.",3,neutro
+"Chegou quebrado, esperava mais mas serve, atende ao básico.",3,neutro
+"O pedido é excelente, valeu o preço.",4,positivo
+"Dentro do esperado, atende ao básico.",3,neutro
+"O produto é horrível, abaixo do esperado.",2,negativo
+Dentro do esperado.,4,positivo
+"Demorou para chegar, a entrega é frustrante.",1,negativo
+"O produto é ótimo, valeu o preço.",4,positivo
+Atende ao básico.,3,neutro
+"O atendimento é horrível, demorou para chegar.",3,neutro
+"Recomendo, a entrega é impecável.",5,positivo
+"O produto é muito bom, recomendo.",4,positivo
+"O produto é horrível, chegou quebrado.",2,negativo
+"Apesar de um arranhão na caixa, entrega rápida, o pedido é muito bom.",5,positivo
+"A compra é ótimo, recomendo.",5,positivo
+"O produto é fraco, veio com defeito.",1,negativo
+"A embalagem é incrível, boa qualidade.",5,positivo
+"Dentro do esperado, entrega rápida.",3,neutro
+"Tive problema na troca, a embalagem é frustrante.",1,negativo
+"A embalagem é frustrante, veio com defeito.",1,negativo
+Dentro do esperado.,3,neutro
+"Voltarei a comprar, só achei meio caro, a entrega é ótimo.",4,positivo
+"A entrega é ruim, poderia ser melhor.",2,negativo
+"Chegou antes do prazo, a embalagem é bacana.",4,positivo
+Dentro do esperado.,3,neutro
+"Voltarei a comprar, esperava mais mas serve.",5,positivo
+"Só achei meio caro, o pedido é ótimo, recomendo.",4,positivo
+"A embalagem é incrível, atendimento atencioso.",5,positivo
+"É ok, mediano, voltarei a comprar.",3,neutro
+"Recomendo, a embalagem é maravilhoso.",5,positivo
+"A compra é decepcionante, chegou quebrado.",2,negativo
+É ok.,1,negativo
+"O pedido é perfeito, voltarei a comprar.",4,positivo
+"O atendimento é excelente, entrega rápida.",5,positivo
+Razoável pelo preço.,3,neutro
+"Demorou para chegar, o pedido é péssimo.",5,positivo
+"Poderia ser melhor, a compra é ruim.",3,neutro
+"A entrega é ruim, abaixo do esperado.",1,negativo
+"Mediano, esperava mais mas serve.",3,neutro
+"A embalagem é ruim, demorou para chegar.",2,negativo
+"Atendimento atencioso, o atendimento é perfeito.",5,positivo
+"O atendimento é bacana, chegou antes do prazo.",4,positivo
+"Mas o atendimento tentou ajudar, o produto é horrível, chegou quebrado.",1,negativo
+"Atende ao básico, dentro do esperado.",5,positivo
+"Só achei meio caro, superou as expectativas, o pedido é incrível.",5,positivo
+Atende ao básico.,5,positivo
+"Veio com defeito, o produto é péssimo.",1,negativo
+"Demorou para chegar, a compra é horrível.",2,negativo
+"O produto é perfeito, voltarei a comprar.",5,positivo
+"Dentro do esperado, mediano.",3,neutro
+"Comum, sem destaque, esperava mais mas serve.",5,positivo
+"A entrega é horrível, não recomendo.",1,negativo
+"Atendimento atencioso, apesar de um arranhão na caixa, o pedido é maravilhoso.",4,positivo
+"O pedido é frustrante, não recomendo.",1,negativo
+"O pedido é impecável, atendimento atencioso.",5,positivo
+"Voltarei a comprar, a compra é maravilhoso.",5,positivo
+"Demorou para chegar, a embalagem é péssimo.",2,negativo
+"Recomendo, o produto é perfeito.",5,positivo
+"Demorou para chegar, o produto é fraco.",1,negativo
+"Abaixo do esperado, a compra é ruim.",2,negativo
+"O produto é bacana, atendimento atencioso.",5,positivo
+"Atendimento atencioso, o produto é maravilhoso.",5,positivo
+"A compra é horrível, abaixo do esperado.",2,negativo
+"Atendimento atencioso, é ok, é ok.",2,negativo
+"Apesar de um arranhão na caixa, o atendimento é muito bom, voltarei a comprar.",5,positivo
+"A entrega é frustrante, não recomendo.",2,negativo
+"Valeu o preço, a entrega é incrível.",5,positivo
+"Apesar de um arranhão na caixa, o produto é maravilhoso, recomendo.",5,positivo
+Atende ao básico.,3,neutro
+"O atendimento é perfeito, voltarei a comprar.",5,positivo
+"Apesar de um arranhão na caixa, entrega rápida, a compra é incrível.",5,positivo
+"Abaixo do esperado, a compra é frustrante, ainda assim a embalagem era bonita.",2,negativo
+Razoável pelo preço.,3,neutro
+"O pedido é perfeito, entrega rápida.",5,positivo
+"Esperava mais mas serve, razoável pelo preço.",2,negativo
+"Não recomendo, a entrega é horrível.",2,negativo
+"A embalagem é ótimo, recomendo.",3,neutro
+"O atendimento é perfeito, superou as expectativas.",4,positivo
+"Demorou para chegar, o atendimento é frustrante.",1,negativo
+"Chegou quebrado, o atendimento é horrível, ainda assim a embalagem era bonita.",5,positivo
+"Recomendo, a entrega é impecável.",5,positivo
+"Recomendo, o produto é ótimo.",5,positivo
+"Mas a entrega demorou um pouco, a embalagem é muito bom, superou as expectativas.",4,positivo
+"Chegou antes do prazo, o atendimento é incrível.",5,positivo
+Atende ao básico.,3,neutro
+"Voltarei a comprar, a embalagem é impecável.",4,positivo
+"É ok, cumpre o que promete, recomendo.",3,neutro
+"Superou as expectativas, a compra é ótimo.",4,positivo
+"O pedido é perfeito, só achei meio caro, chegou antes do prazo.",4,positivo
+"O atendimento é excelente, recomendo.",4,positivo
+"O pedido é ótimo, só achei meio caro, chegou antes do prazo.",5,positivo
+"Entrega rápida, a embalagem é incrível.",4,positivo
+"A entrega é incrível, valeu o preço.",5,positivo
+"Voltarei a comprar, apesar de um arranhão na caixa, o atendimento é bacana.",4,positivo
+Esperava mais mas serve.,3,neutro
+"Entrega rápida, esperava mais mas serve, é ok.",3,neutro
+"A entrega é perfeito, entrega rápida.",5,positivo
+"Entrega rápida, o produto é impecável, apesar de um arranhão na caixa.",4,positivo
+"O produto é ótimo, entrega rápida.",5,positivo
+"Ainda assim a embalagem era bonita, a embalagem é frustrante, poderia ser melhor.",2,negativo
+"Tive problema na troca, o pedido é horrível.",1,negativo
+"Valeu o preço, a entrega é perfeito.",2,negativo
+"Não recomendo, a compra é péssimo.",2,negativo
+"Atende ao básico, dentro do esperado.",1,negativo
+"A embalagem é ótimo, recomendo.",5,positivo
+"Recomendo, a compra é maravilhoso.",4,positivo
+Cumpre o que promete.,3,neutro
+"Dentro do esperado, mediano.",4,positivo
+"Poderia ser melhor, o produto é fraco.",1,negativo
+"Atendimento atencioso, o pedido é excelente.",5,positivo
+"Não recomendo, atende ao básico.",3,neutro
+"A compra é ótimo, só achei meio caro, voltarei a comprar.",5,positivo
+"Recomendo, o pedido é excelente.",5,positivo
+"Atendimento atencioso, o pedido é muito bom.",4,positivo
+"A compra é excelente, entrega rápida.",4,positivo
+"Atendimento atencioso, a compra é impecável, só achei meio caro.",2,negativo
+"A embalagem é decepcionante, veio com defeito.",2,negativo
+"Boa qualidade, o atendimento é impecável.",5,positivo
+"Chegou quebrado, a entrega é péssimo.",1,negativo
+"O atendimento é bacana, atendimento atencioso.",5,positivo
+"Superou as expectativas, o atendimento é impecável.",5,positivo
+"Razoável pelo preço, chegou antes do prazo.",2,negativo
+"O produto é fraco, poderia ser melhor.",1,negativo
+"Abaixo do esperado, o atendimento é horrível.",1,negativo
+"Poderia ser melhor, a entrega é horrível.",2,negativo
+"Dentro do esperado, é ok.",5,positivo
+"A entrega é excelente, superou as expectativas.",4,positivo
+"Não recomendo, o pedido é ruim.",2,negativo
+"Atendimento atencioso, a entrega é bacana, mas a entrega demorou um pouco.",5,positivo
+"É ok, é ok.",3,neutro
+"Comum, sem destaque.",3,neutro
+"Recomendo, só achei meio caro, a entrega é perfeito.",3,neutro
+"O produto é ótimo, chegou antes do prazo.",4,positivo
+"O atendimento é perfeito, superou as expectativas, apesar de um arranhão na caixa.",5,positivo
+"O atendimento é perfeito, entrega rápida.",4,positivo
+"Comum, sem destaque.",3,neutro
+"Entrega rápida, a entrega é excelente.",5,positivo
+"Mas a entrega demorou um pouco, o produto é excelente, entrega rápida.",4,positivo
+"O atendimento é perfeito, atendimento atencioso.",5,positivo
+"A entrega é bacana, recomendo.",5,positivo
+"Esperava mais mas serve, cumpre o que promete.",3,neutro
+"O pedido é excelente, superou as expectativas.",4,positivo
+"Mas o atendimento tentou ajudar, a embalagem é péssimo, demorou para chegar.",1,negativo
+"O produto é decepcionante, mas o atendimento tentou ajudar, tive problema na troca.",4,positivo
+"Demorou para chegar, o pedido é horrível.",2,negativo
+"Valeu o preço, a compra é bacana.",5,positivo
+"Chegou quebrado, ainda assim a embalagem era bonita, o produto é decepcionante.",1,negativo
+"A embalagem é horrível, demorou para chegar.",1,negativo
+Razoável pelo preço.,3,neutro
+"O produto é ruim, tive problema na troca.",1,negativo
+"Não recomendo, a compra é horrível.",1,negativo
+"Boa qualidade, o produto é ótimo.",5,positivo
+"Tive problema na troca, o atendimento é péssimo.",1,negativo
+"A compra é incrível, boa qualidade.",5,positivo
+"É ok, razoável pelo preço.",3,neutro
+"A entrega é ruim, demorou para chegar.",2,negativo
+"O pedido é péssimo, veio com defeito.",4,positivo
+"Abaixo do esperado, a compra é ruim.",1,negativo
+"Valeu o preço, a entrega é muito bom.",5,positivo
+"Atende ao básico, é ok.",3,neutro
+"Valeu o preço, o atendimento é incrível.",3,neutro
+"A embalagem é péssimo, abaixo do esperado.",1,negativo
+"Recomendo, a compra é muito bom.",3,neutro
+"Comum, sem destaque.",3,neutro
+"Boa qualidade, a embalagem é impecável.",5,positivo
+"Atendimento atencioso, só achei meio caro, a embalagem é excelente.",5,positivo
+"Valeu o preço, o produto é muito bom.",5,positivo
+"A compra é ótimo, boa qualidade.",5,positivo
+Mediano.,3,neutro
+"Demorou para chegar, o atendimento é horrível.",1,negativo
+"O produto é perfeito, recomendo, mas a entrega demorou um pouco.",5,positivo
+"O atendimento é ótimo, atendimento atencioso.",5,positivo
+"Tive problema na troca, o atendimento é frustrante.",1,negativo
+"Comum, sem destaque, cumpre o que promete.",3,neutro
+"O pedido é perfeito, voltarei a comprar.",4,positivo
+"Atendimento atencioso, o produto é excelente, só achei meio caro.",4,positivo
+"Valeu o preço, o produto é excelente.",4,positivo
+"Poderia ser melhor, cumpre o que promete.",3,neutro
+"O atendimento é incrível, superou as expectativas.",2,negativo
+"Demorou para chegar, a entrega é fraco.",5,positivo
+"A entrega é maravilhoso, recomendo.",5,positivo
+"A embalagem é muito bom, recomendo.",5,positivo
+"O atendimento é bacana, entrega rápida.",5,positivo
+"O pedido é muito bom, chegou antes do prazo.",4,positivo
+"Valeu o preço, a entrega é perfeito.",5,positivo
+"Não recomendo, o pedido é decepcionante.",5,positivo
+"O produto é excelente, mas a entrega demorou um pouco, atendimento atencioso.",5,positivo
+Dentro do esperado.,3,neutro
+Atende ao básico.,1,negativo
+É ok.,4,positivo
+"Abaixo do esperado, o pedido é frustrante.",2,negativo
+"Cumpre o que promete, entrega rápida.",5,positivo
+"Demorou para chegar, o atendimento é frustrante.",1,negativo
+"Comum, sem destaque.",4,positivo
+"A compra é perfeito, atendimento atencioso.",5,positivo
+"O pedido é bacana, recomendo.",5,positivo
+"Comum, sem destaque.",3,neutro
+"Dentro do esperado, mediano.",3,neutro
+"Boa qualidade, o atendimento é incrível.",4,positivo
+"Não recomendo, o pedido é ruim.",1,negativo
+"Abaixo do esperado, o produto é péssimo.",1,negativo
+"Tive problema na troca, dentro do esperado, atende ao básico.",4,positivo
+"Tive problema na troca, a embalagem é fraco.",3,neutro
+"O pedido é ótimo, atendimento atencioso.",4,positivo
+"A entrega é bacana, atendimento atencioso.",5,positivo
+"Valeu o preço, a compra é bacana.",5,positivo
+"O atendimento é incrível, boa qualidade.",5,positivo
+"Entrega rápida, o pedido é excelente.",5,positivo
+"A compra é incrível, superou as expectativas.",5,positivo
+"A entrega é maravilhoso, atendimento atencioso.",5,positivo
+"Boa qualidade, a compra é excelente.",5,positivo
+"A entrega é péssimo, tive problema na troca.",2,negativo
+"O pedido é impecável, entrega rápida.",5,positivo
+"Valeu o preço, a entrega é impecável.",5,positivo
+"Mas o atendimento tentou ajudar, a entrega é frustrante, poderia ser melhor.",1,negativo
+"Superou as expectativas, a embalagem é incrível.",4,positivo
+"A embalagem é muito bom, recomendo.",5,positivo
+"A entrega é péssimo, chegou quebrado.",2,negativo
+"A embalagem é excelente, boa qualidade.",5,positivo
+"Poderia ser melhor, o atendimento é ruim.",1,negativo
+"Só achei meio caro, a compra é incrível, entrega rápida.",4,positivo
+"O produto é muito bom, recomendo.",4,positivo
+"Não recomendo, o atendimento é fraco.",1,negativo
+"Recomendo, o produto é perfeito.",5,positivo
+"Boa qualidade, o atendimento é impecável.",5,positivo
+"Superou as expectativas, o produto é muito bom.",4,positivo
+"Comum, sem destaque, entrega rápida.",5,positivo
+"Comum, sem destaque, voltarei a comprar.",2,negativo
+"Atendimento atencioso, o atendimento é incrível.",4,positivo
+"Mas a entrega demorou um pouco, a embalagem é bacana, entrega rápida.",4,positivo
+"Razoável pelo preço, dentro do esperado.",3,neutro
+"Chegou antes do prazo, a entrega é ótimo.",5,positivo
+"Chegou antes do prazo, a embalagem é bacana, mas a entrega demorou um pouco.",5,positivo
+"Chegou quebrado, o atendimento é horrível.",2,negativo
+"Comum, sem destaque, cumpre o que promete.",5,positivo
+"A compra é péssimo, veio com defeito.",2,negativo
+"O pedido é decepcionante, chegou quebrado.",1,negativo
+"O pedido é ótimo, atendimento atencioso, mas a entrega demorou um pouco.",5,positivo
+"Comum, sem destaque, atende ao básico.",3,neutro
+"O atendimento é maravilhoso, voltarei a comprar.",4,positivo
+"O pedido é incrível, boa qualidade.",3,neutro
+"O atendimento é ótimo, voltarei a comprar.",5,positivo
+"Chegou antes do prazo, a embalagem é impecável.",4,positivo
+"A embalagem é péssimo, não recomendo.",1,negativo
+"O atendimento é incrível, boa qualidade.",4,positivo
+"Voltarei a comprar, o produto é incrível, apesar de um arranhão na caixa.",1,negativo
+"Recomendo, a entrega é incrível.",5,positivo
+"Veio com defeito, o atendimento é fraco.",1,negativo
+É ok.,3,neutro
+"Cumpre o que promete, esperava mais mas serve, demorou para chegar.",4,positivo
+"Boa qualidade, mas a entrega demorou um pouco, a entrega é impecável.",5,positivo
+"Valeu o preço, a compra é incrível.",4,positivo
+"Valeu o preço, o atendimento é incrível.",5,positivo
+"Veio com defeito, a embalagem é decepcionante.",1,negativo
+"Boa qualidade, atende ao básico, comum, sem destaque.",3,neutro
+"Poderia ser melhor, a compra é péssimo.",2,negativo
+"Apesar de um arranhão na caixa, voltarei a comprar, o atendimento é perfeito.",5,positivo
+"Mediano, esperava mais mas serve.",3,neutro
+"Poderia ser melhor, o atendimento é frustrante.",2,negativo
+"Não recomendo, a entrega é horrível.",5,positivo
+"Recomendo, a entrega é bacana.",4,positivo
+"O atendimento é péssimo, abaixo do esperado.",1,negativo
+"Atendimento atencioso, a compra é impecável.",5,positivo
+"O pedido é maravilhoso, atendimento atencioso.",4,positivo
+"Atende ao básico, comum, sem destaque, voltarei a comprar.",3,neutro
+"Recomendo, o produto é ótimo.",4,positivo
+"Só achei meio caro, superou as expectativas, o pedido é bacana.",5,positivo
+"Superou as expectativas, o atendimento é impecável.",5,positivo
+"Voltarei a comprar, o atendimento é maravilhoso.",5,positivo
+"O atendimento é excelente, entrega rápida.",4,positivo
+"O pedido é maravilhoso, superou as expectativas.",5,positivo
+"O produto é perfeito, chegou antes do prazo.",5,positivo
+"A entrega é ótimo, superou as expectativas.",2,negativo
+"Entrega rápida, a embalagem é perfeito.",1,negativo
+"Chegou quebrado, o pedido é horrível, porém chegou rápido.",1,negativo
+"O pedido é incrível, atendimento atencioso.",4,positivo
+"A entrega é ótimo, atendimento atencioso.",4,positivo
+"Não recomendo, a entrega é decepcionante.",2,negativo
+É ok.,3,neutro
+"O produto é ruim, abaixo do esperado, porém chegou rápido.",1,negativo
+"A compra é impecável, atendimento atencioso.",4,positivo
+"Voltarei a comprar, a compra é incrível.",5,positivo
+"Superou as expectativas, a entrega é muito bom.",5,positivo
+"O atendimento é maravilhoso, atendimento atencioso.",5,positivo
+"É ok, esperava mais mas serve.",3,neutro
+"Voltarei a comprar, o atendimento é impecável.",4,positivo
+"Boa qualidade, o atendimento é incrível.",4,positivo
+"Atendimento atencioso, a entrega é muito bom.",4,positivo
+"O atendimento é horrível, demorou para chegar.",4,positivo
+"O pedido é perfeito, chegou antes do prazo.",4,positivo
+Mediano.,3,neutro
+"Dentro do esperado, comum, sem destaque.",4,positivo
+"A embalagem é péssimo, demorou para chegar.",1,negativo
+"O produto é ruim, chegou quebrado.",1,negativo
+"O produto é impecável, apesar de um arranhão na caixa, superou as expectativas.",5,positivo
+"Recomendo, a compra é incrível.",4,positivo
+"O pedido é perfeito, valeu o preço.",5,positivo
+"Voltarei a comprar, a entrega é impecável.",5,positivo
+"Cumpre o que promete, demorou para chegar.",5,positivo
+"Comum, sem destaque.",3,neutro
+Cumpre o que promete.,3,neutro
+"Comum, sem destaque, mediano, recomendo.",3,neutro
+"Entrega rápida, o atendimento é muito bom.",5,positivo
+"Atendimento atencioso, a embalagem é maravilhoso.",1,negativo
+"Abaixo do esperado, o atendimento é péssimo.",1,negativo
+"Tive problema na troca, o produto é péssimo.",1,negativo
+"O produto é ótimo, valeu o preço.",4,positivo
+"A entrega é impecável, voltarei a comprar.",4,positivo
+"A compra é ótimo, valeu o preço.",5,positivo
+"Dentro do esperado, esperava mais mas serve.",3,neutro
+"Atende ao básico, valeu o preço, esperava mais mas serve.",3,neutro
+"O produto é perfeito, chegou antes do prazo.",5,positivo
+"Comum, sem destaque, esperava mais mas serve.",3,neutro
+"Esperava mais mas serve, comum, sem destaque.",3,neutro
+"O produto é perfeito, chegou antes do prazo.",5,positivo
+"Chegou antes do prazo, o produto é muito bom.",4,positivo
+"A embalagem é impecável, superou as expectativas.",4,positivo
+Esperava mais mas serve.,3,neutro
+"Entrega rápida, o produto é maravilhoso.",5,positivo
+"Entrega rápida, é ok.",3,neutro
+"Não recomendo, a embalagem é horrível.",2,negativo
+"Não recomendo, a embalagem é péssimo.",1,negativo
+"A embalagem é ótimo, chegou antes do prazo.",5,positivo
+"O atendimento é decepcionante, demorou para chegar.",1,negativo
+"Tive problema na troca, a compra é frustrante.",3,neutro
+"Mediano, é ok.",2,negativo
+"O produto é ótimo, voltarei a comprar, só achei meio caro.",5,positivo
+"Atendimento atencioso, o produto é muito bom.",5,positivo
+"A entrega é incrível, chegou antes do prazo.",5,positivo
+"Valeu o preço, o produto é perfeito.",4,positivo
+"Só achei meio caro, chegou antes do prazo, o atendimento é ótimo.",4,positivo
+"A embalagem é excelente, entrega rápida.",4,positivo
+"Só achei meio caro, voltarei a comprar, a entrega é muito bom.",4,positivo
+Esperava mais mas serve.,3,neutro
+É ok.,5,positivo
+"Atendimento atencioso, o produto é perfeito.",4,positivo
+"O produto é ótimo, atendimento atencioso.",5,positivo
+"O produto é ruim, não recomendo.",1,negativo
+"Esperava mais mas serve, dentro do esperado.",3,neutro
+"O atendimento é decepcionante, não recomendo.",2,negativo
+"O produto é incrível, recomendo.",5,positivo
+"A compra é decepcionante, tive problema na troca.",1,negativo
+"Veio com defeito, o produto é ruim.",2,negativo
+"Boa qualidade, o atendimento é impecável, só achei meio caro.",5,positivo
+"Não recomendo, a compra é horrível.",3,neutro
+"Cumpre o que promete, é ok.",5,positivo
+"O pedido é impecável, superou as expectativas.",4,positivo
+"Atendimento atencioso, o atendimento é impecável.",4,positivo
+"Voltarei a comprar, o atendimento é bacana.",4,positivo
+"Chegou quebrado, o produto é péssimo.",1,negativo
+"A compra é horrível, não recomendo.",1,negativo
+"Cumpre o que promete, é ok, boa qualidade.",2,negativo
+"Dentro do esperado, demorou para chegar.",3,neutro
+"Atendimento atencioso, o atendimento é incrível.",4,positivo
+"A embalagem é horrível, abaixo do esperado.",2,negativo
+"Valeu o preço, o produto é excelente.",5,positivo
+"A compra é excelente, atendimento atencioso.",4,positivo
+"Poderia ser melhor, o pedido é péssimo.",1,negativo
+"Valeu o preço, a compra é maravilhoso.",4,positivo
+"Entrega rápida, comum, sem destaque.",3,neutro
+"Entrega rápida, a compra é ótimo.",5,positivo
+"Valeu o preço, a entrega é excelente.",5,positivo
+"Recomendo, o pedido é maravilhoso.",4,positivo
+"O atendimento é péssimo, porém chegou rápido, veio com defeito.",2,negativo
+"Abaixo do esperado, a compra é horrível, ainda assim a embalagem era bonita.",3,neutro
+"A entrega é bacana, boa qualidade.",4,positivo
+"A embalagem é horrível, chegou quebrado.",1,negativo
+"Poderia ser melhor, o produto é decepcionante.",3,neutro
+"Tive problema na troca, o atendimento é péssimo.",2,negativo
+"O pedido é incrível, superou as expectativas.",5,positivo
+Razoável pelo preço.,5,positivo
+"A compra é fraco, poderia ser melhor.",1,negativo
+"Veio com defeito, razoável pelo preço.",3,neutro
+"A embalagem é bacana, superou as expectativas.",5,positivo
+"O produto é ótimo, superou as expectativas.",4,positivo
+"Chegou antes do prazo, o atendimento é excelente.",5,positivo
+"Dentro do esperado, cumpre o que promete.",3,neutro
+"Entrega rápida, o produto é incrível.",4,positivo
+"A entrega é fraco, veio com defeito.",1,negativo
+Atende ao básico.,3,neutro
+"A embalagem é horrível, abaixo do esperado.",2,negativo
+É ok.,5,positivo
+"O produto é impecável, recomendo, mas a entrega demorou um pouco.",4,positivo
+"Superou as expectativas, a compra é impecável.",4,positivo
+"A embalagem é fraco, veio com defeito.",2,negativo
+"A embalagem é ruim, veio com defeito.",2,negativo
+"Entrega rápida, a embalagem é impecável.",5,positivo
+"O produto é horrível, tive problema na troca.",2,negativo
+"O produto é horrível, poderia ser melhor.",1,negativo
+"Veio com defeito, o pedido é frustrante.",4,positivo
+Razoável pelo preço.,5,positivo
+"Cumpre o que promete, mediano.",3,neutro
+"Chegou quebrado, o atendimento é decepcionante, mas o atendimento tentou ajudar.",4,positivo
+Atende ao básico.,3,neutro
+"O produto é impecável, chegou antes do prazo.",5,positivo
+"A compra é incrível, atendimento atencioso.",4,positivo
+"A embalagem é frustrante, tive problema na troca.",4,positivo
+"Comum, sem destaque, comum, sem destaque.",3,neutro
+"Comum, sem destaque, cumpre o que promete.",3,neutro
+"O pedido é fraco, não recomendo.",5,positivo
+"Chegou quebrado, a compra é frustrante.",3,neutro
+"Razoável pelo preço, mediano.",3,neutro
+"Comum, sem destaque.",3,neutro
+"Só achei meio caro, a entrega é perfeito, recomendo.",4,positivo
+Cumpre o que promete.,3,neutro
+Razoável pelo preço.,3,neutro
+"O produto é péssimo, poderia ser melhor.",2,negativo
+"Poderia ser melhor, a entrega é péssimo.",1,negativo
+"Chegou quebrado, a embalagem é decepcionante.",2,negativo
+"Não recomendo, a embalagem é decepcionante.",2,negativo
+"O produto é maravilhoso, valeu o preço.",5,positivo
+"O atendimento é impecável, boa qualidade.",4,positivo
+"A embalagem é bacana, voltarei a comprar, apesar de um arranhão na caixa.",4,positivo
+"O atendimento é ótimo, superou as expectativas.",5,positivo
+"O pedido é horrível, chegou quebrado.",3,neutro
+Atende ao básico.,3,neutro
+"Entrega rápida, a compra é excelente.",5,positivo
+"Chegou quebrado, o produto é péssimo.",5,positivo
+"Ainda assim a embalagem era bonita, a entrega é decepcionante, tive problema na troca.",2,negativo
+"O produto é maravilhoso, apesar de um arranhão na caixa, valeu o preço.",5,positivo
+"Abaixo do esperado, o produto é frustrante.",1,negativo
+"Esperava mais mas serve, dentro do esperado.",5,positivo
+"Chegou quebrado, o produto é fraco.",1,negativo
+"Atende ao básico, entrega rápida.",3,neutro
+"Veio com defeito, a compra é ruim.",1,negativo
+"Não recomendo, o pedido é fraco.",5,positivo
+Mediano.,4,positivo
+"Poderia ser melhor, o atendimento é frustrante.",2,negativo
+"Apesar de um arranhão na caixa, valeu o preço, o atendimento é bacana.",5,positivo
+"Não recomendo, o atendimento é péssimo.",2,negativo
+"Abaixo do esperado, o produto é frustrante.",2,negativo
+Mediano.,3,neutro
+"O pedido é excelente, superou as expectativas.",5,positivo
+"Entrega rápida, atende ao básico.",4,positivo
+"Esperava mais mas serve, demorou para chegar.",3,neutro
+"Apesar de um arranhão na caixa, a entrega é bacana, chegou antes do prazo.",5,positivo
+"O pedido é decepcionante, poderia ser melhor.",5,positivo
+"O atendimento é ruim, ainda assim a embalagem era bonita, poderia ser melhor.",1,negativo
+"Chegou antes do prazo, a embalagem é muito bom.",5,positivo
+"Atende ao básico, esperava mais mas serve.",5,positivo
+"Tive problema na troca, atende ao básico, dentro do esperado.",3,neutro
+"A embalagem é horrível, poderia ser melhor.",2,negativo
+"O pedido é fraco, poderia ser melhor.",2,negativo
+"Atendimento atencioso, a embalagem é perfeito.",5,positivo
+"Mas a entrega demorou um pouco, a embalagem é muito bom, recomendo.",5,positivo
+"Valeu o preço, a entrega é muito bom.",5,positivo
+"Entrega rápida, a embalagem é impecável.",4,positivo
+"A compra é horrível, demorou para chegar.",1,negativo
+"O pedido é bacana, atendimento atencioso.",5,positivo
+"Mediano, comum, sem destaque.",3,neutro
+É ok.,3,neutro
+"Boa qualidade, a entrega é incrível.",5,positivo
+"O pedido é fraco, veio com defeito.",2,negativo
+"Comum, sem destaque, atende ao básico.",3,neutro
+"O produto é bacana, boa qualidade.",1,negativo
+"Boa qualidade, o atendimento é maravilhoso.",5,positivo
+"Dentro do esperado, atende ao básico.",3,neutro
+"O atendimento é incrível, voltarei a comprar.",4,positivo
+"Comum, sem destaque, esperava mais mas serve, recomendo.",4,positivo
+"Poderia ser melhor, o atendimento é ruim.",4,positivo
+Esperava mais mas serve.,3,neutro
+"O pedido é ótimo, voltarei a comprar, mas a entrega demorou um pouco.",4,positivo
+"Boa qualidade, o produto é ótimo, mas a entrega demorou um pouco.",5,positivo
+"A embalagem é perfeito, superou as expectativas.",5,positivo
+"O pedido é frustrante, tive problema na troca.",2,negativo
+"Boa qualidade, a embalagem é perfeito.",5,positivo
+"Mas a entrega demorou um pouco, chegou antes do prazo, o produto é maravilhoso.",4,positivo
+"O atendimento é incrível, boa qualidade.",5,positivo
+"Demorou para chegar, o pedido é horrível.",5,positivo
+"A embalagem é frustrante, poderia ser melhor.",1,negativo
+"A entrega é ruim, demorou para chegar.",5,positivo
+"A compra é péssimo, poderia ser melhor.",2,negativo
+"Abaixo do esperado, o produto é horrível.",1,negativo
+"Valeu o preço, o produto é incrível, mas a entrega demorou um pouco.",4,positivo
+Razoável pelo preço.,5,positivo
+"Chegou antes do prazo, o produto é impecável.",5,positivo
+"Não recomendo, o produto é ruim.",2,negativo
+"A embalagem é horrível, chegou quebrado.",2,negativo
+"Voltarei a comprar, a entrega é ótimo.",5,positivo
+"Mediano, esperava mais mas serve.",3,neutro
+"Boa qualidade, a embalagem é impecável.",5,positivo
+Razoável pelo preço.,3,neutro
+"A embalagem é maravilhoso, valeu o preço.",4,positivo
+"A compra é frustrante, demorou para chegar.",1,negativo
+"A embalagem é decepcionante, poderia ser melhor.",2,negativo
+"O pedido é péssimo, não recomendo.",1,negativo
+"A entrega é fraco, tive problema na troca.",1,negativo
+"Esperava mais mas serve, valeu o preço.",3,neutro
+"Mediano, atende ao básico.",3,neutro
+"Abaixo do esperado, a embalagem é ruim.",2,negativo
+"Veio com defeito, a entrega é ruim.",1,negativo
+"Recomendo, o produto é bacana.",4,positivo
+"O atendimento é maravilhoso, recomendo.",5,positivo
+Mediano.,3,neutro
+"A embalagem é excelente, boa qualidade.",5,positivo
+"Razoável pelo preço, abaixo do esperado.",4,positivo
+"A compra é bacana, boa qualidade, só achei meio caro.",5,positivo
+"Não recomendo, o produto é frustrante.",2,negativo
+"A embalagem é ruim, demorou para chegar.",1,negativo
+"Veio com defeito, a compra é horrível.",3,neutro
+"Valeu o preço, o atendimento é impecável.",4,positivo
+"Recomendo, a entrega é maravilhoso.",4,positivo
+"A entrega é ótimo, valeu o preço.",5,positivo
+"Valeu o preço, a embalagem é incrível.",5,positivo
+"O pedido é bacana, só achei meio caro, valeu o preço.",4,positivo
+Razoável pelo preço.,3,neutro
+"A compra é decepcionante, abaixo do esperado, ainda assim a embalagem era bonita.",1,negativo
+É ok.,3,neutro
+"Atendimento atencioso, a compra é maravilhoso.",5,positivo
+"Comum, sem destaque.",3,neutro
+"Atendimento atencioso, o pedido é maravilhoso.",5,positivo
+"Cumpre o que promete, dentro do esperado.",3,neutro
+"A entrega é excelente, entrega rápida.",4,positivo
+"Apesar de um arranhão na caixa, recomendo, a entrega é muito bom.",4,positivo
+"Veio com defeito, a compra é ruim.",2,negativo
+"Recomendo, o pedido é muito bom.",4,positivo
+"Cumpre o que promete, dentro do esperado.",3,neutro
+"Comum, sem destaque, boa qualidade.",3,neutro
+"A embalagem é muito bom, mas a entrega demorou um pouco, valeu o preço.",4,positivo
+"Não recomendo, razoável pelo preço, dentro do esperado.",3,neutro
+"A compra é fraco, veio com defeito.",1,negativo
+"O pedido é fraco, poderia ser melhor.",2,negativo
+"O pedido é péssimo, não recomendo.",2,negativo
+"Comum, sem destaque.",1,negativo
+"Veio com defeito, a compra é frustrante.",2,negativo
+"O atendimento é maravilhoso, voltarei a comprar.",5,positivo
+"Boa qualidade, a embalagem é ótimo.",4,positivo
+"O produto é decepcionante, não recomendo.",1,negativo
+"O atendimento é bacana, superou as expectativas.",4,positivo
+"Abaixo do esperado, a entrega é decepcionante.",1,negativo
+"Esperava mais mas serve, dentro do esperado.",3,neutro
+"Superou as expectativas, o atendimento é incrível.",4,positivo
+"A entrega é péssimo, abaixo do esperado, ainda assim a embalagem era bonita.",2,negativo
+"Recomendo, a embalagem é impecável.",4,positivo
+"Abaixo do esperado, a compra é ruim.",1,negativo
+"O atendimento é incrível, valeu o preço.",5,positivo
+"A compra é excelente, atendimento atencioso.",4,positivo
+"A embalagem é bacana, voltarei a comprar.",4,positivo
+"Atendimento atencioso, atende ao básico, razoável pelo preço.",1,negativo
+Razoável pelo preço.,3,neutro
+Atende ao básico.,3,neutro
+"O atendimento é impecável, voltarei a comprar.",4,positivo
+"A embalagem é impecável, mas a entrega demorou um pouco, valeu o preço.",4,positivo
+"A compra é muito bom, chegou antes do prazo.",4,positivo
+"Entrega rápida, a embalagem é perfeito.",5,positivo
+"O atendimento é muito bom, recomendo.",5,positivo
+"Valeu o preço, o pedido é impecável.",5,positivo
+"O pedido é excelente, apesar de um arranhão na caixa, entrega rápida.",5,positivo
+"Boa qualidade, a entrega é muito bom.",5,positivo
+"Chegou quebrado, a entrega é frustrante.",5,positivo
+"Voltarei a comprar, a embalagem é perfeito.",5,positivo
+Dentro do esperado.,3,neutro
+"Mediano, mediano, não recomendo.",3,neutro
+"Chegou antes do prazo, o pedido é ótimo.",5,positivo
+Esperava mais mas serve.,3,neutro
+"Recomendo, o produto é ótimo.",4,positivo
+"A embalagem é impecável, superou as expectativas.",4,positivo
+"A compra é ruim, chegou quebrado.",2,negativo
+"Comum, sem destaque, esperava mais mas serve.",3,neutro
+Cumpre o que promete.,1,negativo
+"O atendimento é muito bom, entrega rápida.",5,positivo
+"Recomendo, o atendimento é excelente.",5,positivo
+"Razoável pelo preço, veio com defeito.",3,neutro
+"A embalagem é ótimo, boa qualidade.",4,positivo
+É ok.,4,positivo
+"O atendimento é muito bom, superou as expectativas.",4,positivo
+"O atendimento é ruim, porém chegou rápido, veio com defeito.",2,negativo
+"Veio com defeito, o atendimento é frustrante.",2,negativo
+"O atendimento é perfeito, entrega rápida.",5,positivo
+"Comum, sem destaque, mediano.",4,positivo
+Razoável pelo preço.,3,neutro
+"Chegou quebrado, a entrega é ruim, porém chegou rápido.",1,negativo
+"A embalagem é maravilhoso, atendimento atencioso.",4,positivo
+"A entrega é ruim, abaixo do esperado.",2,negativo
+"A embalagem é bacana, superou as expectativas.",3,neutro
+Cumpre o que promete.,3,neutro
+"O pedido é ótimo, valeu o preço.",5,positivo
+"Chegou quebrado, o produto é decepcionante.",2,negativo
+"O atendimento é incrível, boa qualidade.",5,positivo
+"Boa qualidade, a embalagem é impecável.",5,positivo
+"O atendimento é ótimo, recomendo.",5,positivo
+"Valeu o preço, a entrega é incrível.",4,positivo
+"Dentro do esperado, esperava mais mas serve.",3,neutro
+É ok.,3,neutro
+"A compra é ótimo, valeu o preço.",5,positivo
+"Só achei meio caro, o produto é impecável, recomendo.",2,negativo
+"Demorou para chegar, porém chegou rápido, o atendimento é horrível.",5,positivo
+Razoável pelo preço.,5,positivo
+"Entrega rápida, o produto é impecável.",5,positivo
+"É ok, dentro do esperado.",5,positivo
+"A embalagem é maravilhoso, superou as expectativas.",5,positivo
+"O atendimento é bacana, voltarei a comprar.",5,positivo
+"Valeu o preço, o pedido é ótimo, apesar de um arranhão na caixa.",5,positivo
+"Não recomendo, o atendimento é frustrante.",3,neutro
+"Atendimento atencioso, o pedido é muito bom.",5,positivo
+"Atendimento atencioso, a entrega é ótimo.",2,negativo
+"Entrega rápida, mas a entrega demorou um pouco, o atendimento é excelente.",4,positivo
+"O atendimento é péssimo, tive problema na troca.",1,negativo
+"Voltarei a comprar, o produto é bacana.",5,positivo
+"Voltarei a comprar, a compra é maravilhoso.",4,positivo
+"Superou as expectativas, a compra é perfeito.",5,positivo
+"Recomendo, o atendimento é muito bom.",5,positivo
+"O produto é horrível, poderia ser melhor.",2,negativo
+"Voltarei a comprar, o atendimento é excelente.",4,positivo
+"Entrega rápida, a entrega é bacana, apesar de um arranhão na caixa.",4,positivo
+"O pedido é incrível, superou as expectativas.",5,positivo
+"A embalagem é muito bom, superou as expectativas.",5,positivo
+"Ainda assim a embalagem era bonita, abaixo do esperado, o produto é decepcionante.",2,negativo
+"A entrega é frustrante, chegou quebrado.",1,negativo
+"Entrega rápida, o produto é bacana.",5,positivo
+"Boa qualidade, o pedido é bacana.",5,positivo
+"A embalagem é maravilhoso, entrega rápida.",4,positivo
+"A entrega é excelente, chegou antes do prazo.",4,positivo
+"Comum, sem destaque.",3,neutro
+"A embalagem é muito bom, superou as expectativas.",5,positivo
+"O pedido é horrível, chegou quebrado.",4,positivo
+"A compra é ótimo, entrega rápida, só achei meio caro.",5,positivo
+"Entrega rápida, a compra é muito bom.",5,positivo
+"Recomendo, o pedido é bacana.",4,positivo
+"A compra é impecável, valeu o preço.",5,positivo
+"Atendimento atencioso, mas a entrega demorou um pouco, o atendimento é impecável.",5,positivo
+"Demorou para chegar, porém chegou rápido, o produto é frustrante.",1,negativo
+"O pedido é frustrante, demorou para chegar.",2,negativo
+"Voltarei a comprar, o atendimento é ótimo.",5,positivo
+"O produto é péssimo, veio com defeito.",1,negativo
+"Recomendo, o pedido é maravilhoso.",5,positivo
+"Atendimento atencioso, o atendimento é excelente.",4,positivo
+"Valeu o preço, a embalagem é muito bom.",5,positivo
+Atende ao básico.,3,neutro
+"Só achei meio caro, recomendo, o pedido é excelente.",4,positivo
+"A compra é fraco, tive problema na troca.",2,negativo
+"O produto é muito bom, superou as expectativas.",4,positivo
+"A entrega é péssimo, poderia ser melhor.",2,negativo
+"Entrega rápida, a compra é muito bom.",5,positivo
+"Ainda assim a embalagem era bonita, poderia ser melhor, a compra é ruim.",1,negativo
+"Chegou antes do prazo, a embalagem é impecável.",4,positivo
+"O produto é horrível, demorou para chegar.",2,negativo
+"Chegou quebrado, a embalagem é horrível, porém chegou rápido.",2,negativo
+"A compra é ótimo, entrega rápida.",4,positivo
+"Não recomendo, a entrega é horrível.",1,negativo
+"Valeu o preço, a compra é bacana.",5,positivo
+"A entrega é ruim, abaixo do esperado.",1,negativo
+"Cumpre o que promete, é ok.",5,positivo
+"O pedido é bacana, boa qualidade.",5,positivo
+"Chegou antes do prazo, a compra é maravilhoso.",4,positivo
+"O atendimento é maravilhoso, valeu o preço.",5,positivo
+"Atendimento atencioso, a compra é perfeito, só achei meio caro.",5,positivo
+Esperava mais mas serve.,3,neutro
+"O pedido é horrível, tive problema na troca.",1,negativo
+"A compra é decepcionante, tive problema na troca.",1,negativo
+"O pedido é decepcionante, demorou para chegar.",2,negativo
+"A entrega é bacana, entrega rápida.",5,positivo
+Mediano.,3,neutro
+"O pedido é muito bom, entrega rápida.",5,positivo
+"O produto é maravilhoso, boa qualidade.",2,negativo
+"Apesar de um arranhão na caixa, o pedido é muito bom, recomendo.",4,positivo
+"Abaixo do esperado, o produto é ruim.",2,negativo
+"O produto é frustrante, demorou para chegar.",1,negativo
+"Poderia ser melhor, o atendimento é péssimo.",1,negativo
+"Dentro do esperado, chegou quebrado.",5,positivo
+"O atendimento é muito bom, atendimento atencioso.",4,positivo
+"Veio com defeito, a embalagem é péssimo.",1,negativo
+"O produto é excelente, entrega rápida.",4,positivo
+"O pedido é maravilhoso, entrega rápida.",4,positivo
+"Apesar de um arranhão na caixa, a embalagem é muito bom, entrega rápida.",5,positivo
+"Atende ao básico, é ok.",5,positivo
+"Boa qualidade, a compra é incrível.",4,positivo
+Dentro do esperado.,3,neutro
+"A embalagem é bacana, entrega rápida.",5,positivo
+"Superou as expectativas, mas a entrega demorou um pouco, a entrega é incrível.",5,positivo
+"Atendimento atencioso, o produto é perfeito.",4,positivo
+Esperava mais mas serve.,5,positivo
+"Demorou para chegar, comum, sem destaque, é ok.",3,neutro
+"O pedido é frustrante, não recomendo.",1,negativo
+"A embalagem é excelente, atendimento atencioso.",5,positivo
+"Superou as expectativas, o produto é ótimo.",4,positivo
+"Chegou quebrado, o pedido é fraco.",1,negativo
+"Atendimento atencioso, a entrega é perfeito.",5,positivo
+"Apesar de um arranhão na caixa, voltarei a comprar, o produto é impecável.",5,positivo
+"Tive problema na troca, a entrega é frustrante.",2,negativo
+"Só achei meio caro, o atendimento é muito bom, recomendo.",4,positivo
+"Superou as expectativas, o produto é ótimo.",4,positivo
+"A compra é maravilhoso, valeu o preço.",5,positivo
+"A compra é ótimo, boa qualidade, mas a entrega demorou um pouco.",4,positivo
+"Superou as expectativas, o produto é muito bom.",5,positivo
+"Mas a entrega demorou um pouco, boa qualidade, a embalagem é excelente.",5,positivo
+"Tive problema na troca, a embalagem é decepcionante.",1,negativo
+"Abaixo do esperado, porém chegou rápido, a entrega é fraco.",4,positivo
+"O produto é muito bom, valeu o preço.",4,positivo
+"Razoável pelo preço, dentro do esperado.",3,neutro
+Razoável pelo preço.,3,neutro
+"Valeu o preço, a embalagem é incrível.",4,positivo
+"O atendimento é incrível, entrega rápida.",5,positivo
+"O atendimento é incrível, entrega rápida.",5,positivo
+"Apesar de um arranhão na caixa, a compra é perfeito, recomendo.",5,positivo
+"A compra é fraco, poderia ser melhor.",1,negativo
+"O atendimento é bacana, boa qualidade.",5,positivo
+"O produto é muito bom, boa qualidade.",5,positivo
+"Boa qualidade, o atendimento é excelente.",4,positivo
+"Chegou quebrado, o atendimento é péssimo.",1,negativo
+"A entrega é excelente, voltarei a comprar.",4,positivo
+"Esperava mais mas serve, demorou para chegar, razoável pelo preço.",3,neutro
+"Boa qualidade, a compra é impecável.",4,positivo
+"A embalagem é frustrante, abaixo do esperado.",2,negativo
+"Valeu o preço, a embalagem é impecável, apesar de um arranhão na caixa.",4,positivo
+"A entrega é perfeito, voltarei a comprar.",4,positivo
+"A entrega é incrível, superou as expectativas.",5,positivo
+"A entrega é bacana, boa qualidade.",4,positivo
+"Não recomendo, o produto é ruim, mas o atendimento tentou ajudar.",2,negativo
+"A embalagem é horrível, não recomendo.",1,negativo
+"A entrega é impecável, atendimento atencioso.",3,neutro
+"O produto é ótimo, recomendo.",4,positivo
+"A entrega é maravilhoso, entrega rápida.",4,positivo
+"Poderia ser melhor, o produto é decepcionante.",5,positivo
+"A embalagem é fraco, veio com defeito.",1,negativo
+Esperava mais mas serve.,3,neutro
+"O atendimento é maravilhoso, valeu o preço.",5,positivo
+"Não recomendo, o pedido é frustrante.",1,negativo
+"Superou as expectativas, o produto é maravilhoso.",5,positivo
+"Valeu o preço, o pedido é maravilhoso.",3,neutro
+"O atendimento é incrível, atendimento atencioso.",5,positivo
+"Mas o atendimento tentou ajudar, a compra é ruim, abaixo do esperado.",1,negativo
+"É ok, é ok, recomendo.",3,neutro
+"A compra é ruim, abaixo do esperado.",1,negativo
+"Recomendo, o produto é incrível.",5,positivo
+"A embalagem é maravilhoso, voltarei a comprar.",5,positivo
+"Mas a entrega demorou um pouco, valeu o preço, o pedido é maravilhoso.",4,positivo
+"Atendimento atencioso, o produto é ótimo.",5,positivo
+"O atendimento é maravilhoso, mas a entrega demorou um pouco, atendimento atencioso.",5,positivo
+"O atendimento é incrível, recomendo.",5,positivo
+"O atendimento é perfeito, só achei meio caro, boa qualidade.",5,positivo
+"Mas a entrega demorou um pouco, a compra é incrível, atendimento atencioso.",4,positivo
+"A entrega é excelente, entrega rápida.",5,positivo
+"A compra é muito bom, boa qualidade.",4,positivo
+"Voltarei a comprar, o pedido é excelente.",4,positivo
+"A embalagem é muito bom, valeu o preço.",5,positivo
+"A entrega é decepcionante, poderia ser melhor.",1,negativo
+"Veio com defeito, a entrega é horrível.",1,negativo
+"O pedido é decepcionante, tive problema na troca.",1,negativo
+"Tive problema na troca, a embalagem é fraco.",2,negativo
+"Abaixo do esperado, o atendimento é horrível.",1,negativo
+"O pedido é incrível, superou as expectativas.",4,positivo
+"O produto é excelente, voltarei a comprar.",4,positivo
+"Chegou antes do prazo, a compra é perfeito.",5,positivo
+"O atendimento é frustrante, abaixo do esperado.",1,negativo
+"Chegou quebrado, a embalagem é decepcionante.",1,negativo
+"Abaixo do esperado, a entrega é decepcionante.",2,negativo
+"A compra é perfeito, voltarei a comprar.",5,positivo
+"Chegou quebrado, o pedido é ruim.",2,negativo
+"Boa qualidade, a entrega é maravilhoso.",4,positivo
+"A compra é ruim, não recomendo.",2,negativo
+"Mas a entrega demorou um pouco, entrega rápida, o atendimento é bacana.",4,positivo
+"A compra é perfeito, chegou antes do prazo.",4,positivo
+"Dentro do esperado, é ok.",5,positivo
+"Esperava mais mas serve, comum, sem destaque.",3,neutro
+"Poderia ser melhor, o pedido é fraco.",2,negativo
+"A compra é ruim, demorou para chegar.",2,negativo
+"Não recomendo, porém chegou rápido, a compra é fraco.",2,negativo
+"Comum, sem destaque, atende ao básico.",3,neutro
+"Superou as expectativas, a compra é impecável.",4,positivo
+"Valeu o preço, o produto é ótimo.",5,positivo
+"O atendimento é fraco, não recomendo.",2,negativo
+"Valeu o preço, a entrega é bacana.",2,negativo
+"Atendimento atencioso, a entrega é bacana.",4,positivo
+"O atendimento é horrível, chegou quebrado.",2,negativo
+"Razoável pelo preço, razoável pelo preço.",4,positivo
+"É ok, é ok.",5,positivo
+"Valeu o preço, o produto é maravilhoso.",4,positivo
+"Comum, sem destaque.",5,positivo
+"A embalagem é fraco, tive problema na troca.",2,negativo
+"Abaixo do esperado, a embalagem é ruim.",2,negativo
+"A compra é horrível, tive problema na troca.",2,negativo
+"O atendimento é ótimo, atendimento atencioso.",4,positivo
+"Boa qualidade, a compra é perfeito, apesar de um arranhão na caixa.",4,positivo
+"A embalagem é muito bom, recomendo.",5,positivo
+"Atendimento atencioso, a compra é muito bom.",5,positivo
+"Abaixo do esperado, o atendimento é péssimo.",2,negativo
+"Cumpre o que promete, atende ao básico.",3,neutro
+"Voltarei a comprar, a compra é perfeito.",5,positivo
+"Apesar de um arranhão na caixa, o produto é ótimo, superou as expectativas.",4,positivo
+"Entrega rápida, a compra é excelente.",4,positivo
+"O pedido é impecável, entrega rápida.",5,positivo
+"Abaixo do esperado, o pedido é ruim.",1,negativo
+"O atendimento é bacana, voltarei a comprar.",5,positivo
+"Atendimento atencioso, a embalagem é perfeito.",4,positivo
+"O pedido é fraco, tive problema na troca, ainda assim a embalagem era bonita.",2,negativo
+"Só achei meio caro, valeu o preço, o atendimento é muito bom.",4,positivo
+"Entrega rápida, o pedido é muito bom.",5,positivo
+"Valeu o preço, a embalagem é maravilhoso.",4,positivo
+"Chegou antes do prazo, a embalagem é incrível.",5,positivo
+"O pedido é incrível, atendimento atencioso.",5,positivo
+"O produto é horrível, tive problema na troca.",2,negativo
+"Chegou antes do prazo, o atendimento é muito bom.",5,positivo
+"Dentro do esperado, dentro do esperado.",3,neutro
+"Recomendo, o pedido é incrível.",4,positivo
+"O produto é incrível, valeu o preço.",5,positivo
+"Demorou para chegar, o produto é péssimo.",2,negativo
+"Atende ao básico, cumpre o que promete, abaixo do esperado.",3,neutro
+"Boa qualidade, o produto é maravilhoso.",2,negativo
+"Demorou para chegar, o atendimento é péssimo.",1,negativo
+"Atende ao básico, chegou quebrado.",3,neutro
+"O atendimento é maravilhoso, atendimento atencioso.",5,positivo
+"A compra é maravilhoso, valeu o preço.",5,positivo
+"A entrega é perfeito, voltarei a comprar.",4,positivo
+"A compra é incrível, entrega rápida.",5,positivo
+"Só achei meio caro, recomendo, a entrega é ótimo.",4,positivo
+"É ok, é ok.",3,neutro
+"Não recomendo, a compra é péssimo.",1,negativo
+"A embalagem é horrível, tive problema na troca.",1,negativo
+"O atendimento é maravilhoso, atendimento atencioso.",5,positivo
+"Veio com defeito, a entrega é fraco.",1,negativo
+"A entrega é excelente, recomendo.",3,neutro
+"O pedido é frustrante, demorou para chegar.",2,negativo
+"Poderia ser melhor, a entrega é fraco.",1,negativo
+"Recomendo, a entrega é maravilhoso.",4,positivo
+"Atendimento atencioso, o produto é perfeito.",4,positivo
+"O produto é fraco, tive problema na troca.",2,negativo
+"Mediano, cumpre o que promete.",3,neutro
+"Tive problema na troca, o atendimento é fraco.",2,negativo
+"Entrega rápida, a embalagem é bacana.",5,positivo
+"A compra é incrível, entrega rápida.",4,positivo
+"A entrega é bacana, boa qualidade.",5,positivo
+"Superou as expectativas, comum, sem destaque.",3,neutro
+Mediano.,3,neutro
+"O produto é fraco, veio com defeito.",1,negativo
+"A embalagem é impecável, superou as expectativas.",5,positivo
+"O produto é ótimo, atendimento atencioso, só achei meio caro.",4,positivo
+"A compra é bacana, atendimento atencioso.",5,positivo
+"Voltarei a comprar, o produto é incrível.",4,positivo
+"O atendimento é incrível, entrega rápida.",5,positivo
+"Boa qualidade, a compra é excelente.",5,positivo
+"A compra é péssimo, tive problema na troca.",2,negativo
+"A embalagem é fraco, demorou para chegar.",2,negativo
+"Não recomendo, o atendimento é ruim.",2,negativo
+"Atendimento atencioso, esperava mais mas serve.",3,neutro
+"Chegou quebrado, o atendimento é frustrante.",2,negativo
+"Boa qualidade, o atendimento é impecável.",5,positivo
+"Demorou para chegar, a compra é horrível.",1,negativo
+"Veio com defeito, a entrega é frustrante.",2,negativo
+"Mas a entrega demorou um pouco, recomendo, o pedido é bacana.",1,negativo
+"Superou as expectativas, o pedido é impecável.",5,positivo
+"A entrega é ótimo, atendimento atencioso.",5,positivo
+"Só achei meio caro, boa qualidade, a entrega é ótimo.",5,positivo
+"Abaixo do esperado, o pedido é horrível.",2,negativo
+"Cumpre o que promete, atende ao básico.",1,negativo
+"O pedido é horrível, tive problema na troca.",1,negativo
+"A entrega é muito bom, superou as expectativas, apesar de um arranhão na caixa.",5,positivo
+É ok.,5,positivo
+"O produto é impecável, boa qualidade.",4,positivo
+"Valeu o preço, o atendimento é perfeito.",3,neutro
+Esperava mais mas serve.,3,neutro
+"Recomendo, atende ao básico.",4,positivo
+"O pedido é decepcionante, tive problema na troca.",1,negativo
+"O atendimento é perfeito, atendimento atencioso.",4,positivo
+"Porém chegou rápido, o pedido é ruim, tive problema na troca.",1,negativo
+"A entrega é ruim, não recomendo.",2,negativo
+"O produto é bacana, chegou antes do prazo.",4,positivo
+"A entrega é maravilhoso, boa qualidade, apesar de um arranhão na caixa.",4,positivo
+"O atendimento é impecável, valeu o preço.",5,positivo
+"Só achei meio caro, entrega rápida, a embalagem é perfeito.",4,positivo
+"Entrega rápida, a entrega é maravilhoso.",5,positivo
+"A compra é incrível, atendimento atencioso.",4,positivo
+"Não recomendo, a entrega é frustrante.",1,negativo
+"O pedido é decepcionante, demorou para chegar.",4,positivo
+"Abaixo do esperado, o atendimento é horrível.",1,negativo
+"Razoável pelo preço, não recomendo.",3,neutro
+"Valeu o preço, a compra é muito bom.",3,neutro
+"Atendimento atencioso, a compra é incrível.",5,positivo
+"Veio com defeito, o atendimento é decepcionante, mas o atendimento tentou ajudar.",2,negativo
+"A embalagem é bacana, valeu o preço.",5,positivo
+Mediano.,1,negativo
+"Atendimento atencioso, a compra é perfeito.",5,positivo
+"A entrega é horrível, poderia ser melhor.",1,negativo
+Cumpre o que promete.,5,positivo
+"Não recomendo, mediano, mediano.",1,negativo
+"O pedido é maravilhoso, entrega rápida.",5,positivo
+"Não recomendo, a compra é horrível.",1,negativo
+"O atendimento é horrível, poderia ser melhor.",1,negativo
+"O pedido é frustrante, chegou quebrado.",1,negativo
+"Valeu o preço, a entrega é impecável.",4,positivo
+"Superou as expectativas, o pedido é impecável.",4,positivo
+"Cumpre o que promete, recomendo, é ok.",3,neutro
+"A compra é bacana, entrega rápida.",1,negativo
+"Chegou antes do prazo, o atendimento é ótimo.",5,positivo
+"Voltarei a comprar, o produto é excelente.",4,positivo
+"A entrega é horrível, veio com defeito.",5,positivo
+"A embalagem é muito bom, entrega rápida.",4,positivo
+"O atendimento é maravilhoso, valeu o preço.",5,positivo
+"Razoável pelo preço, mediano.",3,neutro
+"Entrega rápida, o atendimento é ótimo.",4,positivo
+"Voltarei a comprar, o atendimento é incrível.",4,positivo
+"O atendimento é incrível, recomendo, apesar de um arranhão na caixa.",4,positivo
+"Cumpre o que promete, é ok.",3,neutro
+"O produto é ótimo, boa qualidade.",4,positivo
+É ok.,3,neutro
+"Chegou quebrado, o pedido é fraco.",1,negativo
+"A entrega é ótimo, chegou antes do prazo.",4,positivo
+"Superou as expectativas, a entrega é muito bom.",4,positivo
+"Chegou quebrado, o atendimento é ruim.",5,positivo
+"Mas a entrega demorou um pouco, o pedido é maravilhoso, valeu o preço.",5,positivo
+"Chegou quebrado, o produto é decepcionante.",2,negativo
+"O pedido é péssimo, chegou quebrado.",1,negativo
+"Comum, sem destaque, comum, sem destaque.",3,neutro
+"A embalagem é péssimo, tive problema na troca.",2,negativo
+"A embalagem é perfeito, chegou antes do prazo.",5,positivo
+"A entrega é frustrante, demorou para chegar.",2,negativo
+Mediano.,3,neutro
+"O pedido é impecável, superou as expectativas.",5,positivo
+É ok.,3,neutro
+"O pedido é impecável, voltarei a comprar.",4,positivo
+"Voltarei a comprar, o pedido é excelente.",4,positivo
+"Não recomendo, a compra é decepcionante.",1,negativo
+"Entrega rápida, a compra é ótimo.",5,positivo
+"Tive problema na troca, o atendimento é frustrante.",2,negativo
+"Voltarei a comprar, o pedido é bacana.",4,positivo
+"Tive problema na troca, o pedido é frustrante.",1,negativo
+"Valeu o preço, o produto é excelente.",5,positivo
+"Não recomendo, o pedido é fraco.",1,negativo
+"Atende ao básico, comum, sem destaque.",3,neutro
+"Chegou antes do prazo, o atendimento é muito bom.",5,positivo
+"O produto é maravilhoso, voltarei a comprar.",5,positivo
+"A compra é frustrante, abaixo do esperado.",1,negativo
+"Apesar de um arranhão na caixa, o produto é muito bom, voltarei a comprar.",5,positivo
+"Veio com defeito, a embalagem é frustrante, mas o atendimento tentou ajudar.",5,positivo
+"Dentro do esperado, mediano.",4,positivo
+"A compra é decepcionante, demorou para chegar, mas o atendimento tentou ajudar.",2,negativo
+"Entrega rápida, a compra é bacana.",5,positivo
+"Mediano, comum, sem destaque.",3,neutro
+"A compra é excelente, valeu o preço.",4,positivo
+"Veio com defeito, a embalagem é ruim.",1,negativo
+"A compra é muito bom, entrega rápida.",5,positivo
+"Atende ao básico, mediano.",3,neutro
+"Comum, sem destaque, recomendo, comum, sem destaque.",3,neutro
+"Cumpre o que promete, recomendo.",1,negativo
+"Tive problema na troca, porém chegou rápido, a compra é decepcionante.",2,negativo
+"Atendimento atencioso, a embalagem é ótimo, apesar de um arranhão na caixa.",4,positivo
+"A embalagem é perfeito, recomendo.",5,positivo
+Atende ao básico.,3,neutro
+"Só achei meio caro, o pedido é incrível, valeu o preço.",4,positivo
+"Superou as expectativas, a compra é perfeito.",4,positivo
+"Boa qualidade, a entrega é ótimo, mas a entrega demorou um pouco.",4,positivo
+"A embalagem é excelente, superou as expectativas.",4,positivo
+"Esperava mais mas serve, tive problema na troca, cumpre o que promete.",3,neutro
+"Mas o atendimento tentou ajudar, a entrega é decepcionante, chegou quebrado.",2,negativo
+"O atendimento é muito bom, recomendo.",5,positivo
+"Abaixo do esperado, o atendimento é frustrante.",2,negativo
+"A entrega é perfeito, voltarei a comprar.",5,positivo
+"Veio com defeito, a entrega é horrível.",1,negativo
+"Abaixo do esperado, a entrega é frustrante.",1,negativo
+"Razoável pelo preço, comum, sem destaque.",3,neutro
+"A embalagem é péssimo, não recomendo.",2,negativo
+"A compra é incrível, superou as expectativas.",4,positivo
+"A embalagem é ruim, porém chegou rápido, não recomendo.",2,negativo
+"A embalagem é maravilhoso, só achei meio caro, superou as expectativas.",5,positivo
+"O atendimento é ótimo, chegou antes do prazo.",5,positivo
+"Abaixo do esperado, a entrega é frustrante.",1,negativo
+"O produto é bacana, chegou antes do prazo, mas a entrega demorou um pouco.",5,positivo
+Mediano.,5,positivo
+"A compra é muito bom, superou as expectativas.",4,positivo
+"Apesar de um arranhão na caixa, o produto é bacana, atendimento atencioso.",4,positivo
+"Atende ao básico, dentro do esperado, voltarei a comprar.",3,neutro
+"A embalagem é péssimo, veio com defeito.",1,negativo
+Mediano.,5,positivo
+"Veio com defeito, a compra é frustrante.",2,negativo
+"Não recomendo, a embalagem é horrível.",2,negativo
+"Comum, sem destaque, não recomendo.",4,positivo
+"Entrega rápida, o produto é incrível.",4,positivo
+"Voltarei a comprar, dentro do esperado.",5,positivo
+"Chegou antes do prazo, dentro do esperado, cumpre o que promete.",3,neutro
+"É ok, comum, sem destaque.",5,positivo
+"Chegou antes do prazo, a embalagem é ótimo.",5,positivo
+"Valeu o preço, o atendimento é bacana, apesar de um arranhão na caixa.",5,positivo
+"A compra é frustrante, poderia ser melhor, ainda assim a embalagem era bonita.",1,negativo
+Razoável pelo preço.,3,neutro
+"A embalagem é impecável, recomendo.",4,positivo
+"Esperava mais mas serve, mediano, boa qualidade.",3,neutro
+"O produto é incrível, voltarei a comprar.",4,positivo
+"O produto é bacana, recomendo, só achei meio caro.",5,positivo
+"Esperava mais mas serve, atendimento atencioso, é ok.",3,neutro
+"Demorou para chegar, a compra é péssimo.",1,negativo
+"Chegou antes do prazo, a entrega é ótimo.",5,positivo
+"Atendimento atencioso, a entrega é incrível.",5,positivo
+"Apesar de um arranhão na caixa, a entrega é incrível, voltarei a comprar.",5,positivo
+"Boa qualidade, a embalagem é ótimo.",4,positivo
+"Demorou para chegar, a compra é decepcionante.",2,negativo
+"O atendimento é maravilhoso, valeu o preço, só achei meio caro.",4,positivo
+"Esperava mais mas serve, cumpre o que promete.",3,neutro
+"Valeu o preço, a entrega é maravilhoso.",4,positivo
+"Demorou para chegar, o atendimento é ruim.",1,negativo
+"A embalagem é perfeito, recomendo.",4,positivo
+"O produto é perfeito, atendimento atencioso, apesar de um arranhão na caixa.",5,positivo
+"Valeu o preço, o pedido é maravilhoso.",5,positivo
+"Esperava mais mas serve, comum, sem destaque.",3,neutro
+"A entrega é bacana, atendimento atencioso.",5,positivo
+"A entrega é impecável, entrega rápida.",5,positivo
+"A compra é incrível, apesar de um arranhão na caixa, entrega rápida.",4,positivo
+"O pedido é ótimo, boa qualidade.",4,positivo
+"Razoável pelo preço, mediano.",3,neutro
+"O atendimento é frustrante, chegou quebrado.",1,negativo
+"Voltarei a comprar, o produto é impecável.",5,positivo
+"A embalagem é ruim, porém chegou rápido, abaixo do esperado.",1,negativo
+"O atendimento é ruim, poderia ser melhor.",5,positivo
+"Ainda assim a embalagem era bonita, demorou para chegar, a compra é ruim.",1,negativo
+"Superou as expectativas, a entrega é impecável.",4,positivo
+"O pedido é ótimo, recomendo.",5,positivo
+"Mediano, mediano.",3,neutro
+"Superou as expectativas, o atendimento é bacana.",5,positivo
+"Comum, sem destaque.",3,neutro
+"Entrega rápida, a compra é bacana, apesar de um arranhão na caixa.",4,positivo
+"O atendimento é incrível, atendimento atencioso.",4,positivo
+"Valeu o preço, o pedido é incrível.",4,positivo
+"O pedido é bacana, chegou antes do prazo.",5,positivo
+"A embalagem é maravilhoso, superou as expectativas.",4,positivo
+"Esperava mais mas serve, atendimento atencioso.",3,neutro
+"Atendimento atencioso, o atendimento é maravilhoso.",5,positivo
+"Voltarei a comprar, a compra é maravilhoso.",4,positivo
+"O atendimento é perfeito, entrega rápida.",5,positivo
+Mediano.,3,neutro
+"O produto é ótimo, chegou antes do prazo, apesar de um arranhão na caixa.",5,positivo
+"A compra é excelente, entrega rápida.",5,positivo
+"Voltarei a comprar, a compra é muito bom.",5,positivo
+"A entrega é ótimo, superou as expectativas.",5,positivo
+"Mas o atendimento tentou ajudar, não recomendo, o atendimento é horrível.",2,negativo
+"Valeu o preço, o atendimento é incrível.",5,positivo
+"A embalagem é excelente, superou as expectativas.",5,positivo
+"Esperava mais mas serve, não recomendo.",3,neutro
+"Chegou antes do prazo, a entrega é incrível, mas a entrega demorou um pouco.",4,positivo
+"Boa qualidade, o pedido é perfeito.",2,negativo
+"Esperava mais mas serve, cumpre o que promete.",3,neutro
+"A embalagem é fraco, demorou para chegar.",1,negativo
+"O atendimento é ruim, abaixo do esperado.",1,negativo
+"Comum, sem destaque.",3,neutro
+"O pedido é horrível, poderia ser melhor.",1,negativo
+"O pedido é fraco, tive problema na troca.",2,negativo
+"Dentro do esperado, razoável pelo preço.",3,neutro
+"Superou as expectativas, a embalagem é excelente.",5,positivo
+"O produto é decepcionante, demorou para chegar.",1,negativo
+"Razoável pelo preço, chegou antes do prazo, mediano.",3,neutro
+É ok.,3,neutro
+"Abaixo do esperado, a embalagem é horrível, ainda assim a embalagem era bonita.",1,negativo
+É ok.,3,neutro
+"Superou as expectativas, a compra é impecável.",5,positivo
+"Cumpre o que promete, superou as expectativas.",3,neutro
+"Recomendo, apesar de um arranhão na caixa, a compra é ótimo.",4,positivo
+"Mas a entrega demorou um pouco, a embalagem é excelente, voltarei a comprar.",5,positivo
+É ok.,3,neutro
+"Mediano, mediano.",3,neutro
+"O produto é frustrante, abaixo do esperado.",1,negativo
+"O atendimento é ótimo, valeu o preço.",4,positivo
+"É ok, superou as expectativas.",3,neutro
+"Veio com defeito, o produto é frustrante.",2,negativo
+"O atendimento é incrível, superou as expectativas.",4,positivo
+"Só achei meio caro, a embalagem é perfeito, superou as expectativas.",4,positivo
+"A compra é muito bom, valeu o preço.",5,positivo
+"A embalagem é fraco, não recomendo.",1,negativo
+"Entrega rápida, o pedido é maravilhoso.",4,positivo
+Dentro do esperado.,3,neutro
+"Voltarei a comprar, a entrega é muito bom.",4,positivo
+"Razoável pelo preço, esperava mais mas serve.",3,neutro
+"Tive problema na troca, o atendimento é decepcionante.",4,positivo
+"O atendimento é maravilhoso, chegou antes do prazo.",5,positivo
+"Veio com defeito, a compra é fraco.",4,positivo
+"Demorou para chegar, o atendimento é horrível.",1,negativo
+"O atendimento é perfeito, atendimento atencioso.",3,neutro
+"Atendimento atencioso, o produto é maravilhoso.",4,positivo
+"Esperava mais mas serve, atende ao básico, abaixo do esperado.",3,neutro
+"Recomendo, o atendimento é incrível.",4,positivo
+"A entrega é ruim, poderia ser melhor.",1,negativo
+"Demorou para chegar, o pedido é frustrante.",2,negativo
+"A compra é excelente, voltarei a comprar.",4,positivo
+"Chegou antes do prazo, a entrega é incrível.",4,positivo
+"É ok, demorou para chegar.",3,neutro
+"Só achei meio caro, chegou antes do prazo, a entrega é impecável.",5,positivo
+Dentro do esperado.,3,neutro
+"O pedido é bacana, superou as expectativas.",5,positivo
+"O pedido é decepcionante, não recomendo.",5,positivo
+"O atendimento é muito bom, voltarei a comprar, apesar de um arranhão na caixa.",5,positivo
+"A embalagem é muito bom, voltarei a comprar.",4,positivo
+"Atendimento atencioso, o produto é maravilhoso.",5,positivo
+"Entrega rápida, a entrega é perfeito, mas a entrega demorou um pouco.",5,positivo
+"A embalagem é horrível, tive problema na troca.",2,negativo
+"A embalagem é incrível, recomendo.",4,positivo
+"Chegou antes do prazo, o atendimento é impecável.",4,positivo
+"Demorou para chegar, a compra é horrível.",1,negativo
+"Porém chegou rápido, o pedido é decepcionante, poderia ser melhor.",1,negativo
+"Recomendo, comum, sem destaque, é ok.",3,neutro
+"O produto é bacana, chegou antes do prazo.",5,positivo
+"O pedido é decepcionante, veio com defeito.",2,negativo
+"O produto é bacana, superou as expectativas.",5,positivo
+"Veio com defeito, a compra é decepcionante.",1,negativo
+"A entrega é ruim, tive problema na troca.",2,negativo
+"A compra é maravilhoso, boa qualidade.",4,positivo
+"Abaixo do esperado, o atendimento é péssimo.",5,positivo
+"Mas a entrega demorou um pouco, atendimento atencioso, o atendimento é perfeito.",5,positivo
+"A compra é péssimo, poderia ser melhor.",5,positivo
+"Valeu o preço, a embalagem é incrível.",5,positivo
+"Voltarei a comprar, a compra é excelente.",4,positivo
+"Recomendo, o pedido é excelente.",5,positivo
+"O pedido é excelente, superou as expectativas.",5,positivo
+Mediano.,3,neutro
+Mediano.,3,neutro
+"A compra é decepcionante, abaixo do esperado.",2,negativo
+"Não recomendo, o pedido é ruim.",4,positivo
+"Atendimento atencioso, a compra é ótimo.",5,positivo
+"O produto é incrível, só achei meio caro, valeu o preço.",4,positivo
+"Esperava mais mas serve, cumpre o que promete.",3,neutro
+Esperava mais mas serve.,5,positivo
+"A compra é decepcionante, tive problema na troca.",1,negativo
+"A entrega é impecável, boa qualidade.",5,positivo
+"O produto é excelente, valeu o preço.",5,positivo
+"Chegou antes do prazo, a embalagem é excelente.",5,positivo
+"Ainda assim a embalagem era bonita, a compra é decepcionante, abaixo do esperado.",2,negativo
+"O atendimento é decepcionante, demorou para chegar, ainda assim a embalagem era bonita.",5,positivo
+"Entrega rápida, a compra é excelente.",4,positivo
+"A embalagem é decepcionante, demorou para chegar.",4,positivo
+"Atendimento atencioso, mas a entrega demorou um pouco, a entrega é ótimo.",4,positivo
+"A entrega é ruim, tive problema na troca.",2,negativo
+"O atendimento é incrível, boa qualidade.",5,positivo
+"Veio com defeito, a entrega é decepcionante.",1,negativo
+"A embalagem é frustrante, poderia ser melhor.",1,negativo
+"O produto é ótimo, voltarei a comprar.",4,positivo
+Dentro do esperado.,3,neutro
+"A embalagem é muito bom, valeu o preço.",5,positivo
+Esperava mais mas serve.,3,neutro
+"A compra é bacana, boa qualidade.",4,positivo
+"Veio com defeito, é ok.",1,negativo
+"Poderia ser melhor, o pedido é frustrante.",1,negativo
+"O atendimento é frustrante, abaixo do esperado.",5,positivo
+"Voltarei a comprar, o atendimento é muito bom.",5,positivo
+"Valeu o preço, o pedido é impecável.",4,positivo
+"Boa qualidade, a compra é muito bom.",5,positivo
+Cumpre o que promete.,3,neutro
+"A entrega é ruim, mas o atendimento tentou ajudar, veio com defeito.",2,negativo
+"Razoável pelo preço, é ok.",4,positivo
+"Entrega rápida, a entrega é muito bom.",2,negativo
+"O atendimento é ótimo, chegou antes do prazo.",5,positivo
+"A entrega é ótimo, chegou antes do prazo, mas a entrega demorou um pouco.",4,positivo
+"Cumpre o que promete, é ok.",4,positivo
+"O produto é ótimo, voltarei a comprar.",4,positivo
+"Demorou para chegar, a entrega é péssimo.",1,negativo
+"É ok, comum, sem destaque, boa qualidade.",3,neutro
+"Razoável pelo preço, dentro do esperado.",3,neutro
+"A entrega é decepcionante, chegou quebrado.",1,negativo
+"A entrega é ótimo, recomendo.",5,positivo
+"Chegou antes do prazo, o produto é bacana.",5,positivo
+"Valeu o preço, a embalagem é muito bom.",5,positivo
+"Veio com defeito, a compra é ruim.",2,negativo
+"O produto é impecável, só achei meio caro, valeu o preço.",4,positivo
+"Abaixo do esperado, o atendimento é horrível.",1,negativo
+"Superou as expectativas, mediano, dentro do esperado.",3,neutro
+"Abaixo do esperado, o produto é horrível.",4,positivo
+"Chegou antes do prazo, o produto é perfeito.",4,positivo
+"Atendimento atencioso, a entrega é maravilhoso.",5,positivo
+"Chegou quebrado, a embalagem é decepcionante.",1,negativo
+"O atendimento é ótimo, voltarei a comprar.",5,positivo
+"Recomendo, o pedido é ótimo.",5,positivo
+"Superou as expectativas, o produto é incrível.",4,positivo
+"Voltarei a comprar, o atendimento é impecável.",4,positivo
+"O produto é maravilhoso, voltarei a comprar.",5,positivo
+"A entrega é excelente, atendimento atencioso.",4,positivo
+"A compra é fraco, chegou quebrado.",1,negativo
+"Cumpre o que promete, cumpre o que promete.",4,positivo
+"Superou as expectativas, a entrega é perfeito.",4,positivo
+"A compra é perfeito, boa qualidade.",5,positivo
+"Esperava mais mas serve, comum, sem destaque.",3,neutro
+"Comum, sem destaque, dentro do esperado.",3,neutro
+"A embalagem é ótimo, atendimento atencioso.",5,positivo
+"A entrega é frustrante, abaixo do esperado.",5,positivo
+"É ok, razoável pelo preço.",3,neutro
+"O produto é ruim, poderia ser melhor.",1,negativo
+"A compra é ruim, demorou para chegar.",1,negativo
+"O produto é maravilhoso, superou as expectativas.",5,positivo
+"O atendimento é decepcionante, não recomendo.",1,negativo
+"Mas o atendimento tentou ajudar, o pedido é fraco, demorou para chegar.",1,negativo
+"Poderia ser melhor, a embalagem é fraco.",2,negativo
+"O produto é ruim, poderia ser melhor.",3,neutro
+"Recomendo, o pedido é excelente.",4,positivo
+"Superou as expectativas, o pedido é impecável.",5,positivo
+"A embalagem é maravilhoso, recomendo.",5,positivo
+"Dentro do esperado, demorou para chegar, mediano.",4,positivo
+"A compra é impecável, apesar de um arranhão na caixa, voltarei a comprar.",4,positivo
+"A entrega é maravilhoso, boa qualidade, só achei meio caro.",4,positivo
+"O pedido é horrível, não recomendo.",1,negativo
+"Valeu o preço, comum, sem destaque.",3,neutro
+É ok.,3,neutro
+"O atendimento é frustrante, não recomendo.",1,negativo
+"Comum, sem destaque.",3,neutro
+Mediano.,3,neutro
+"Chegou quebrado, o produto é fraco.",1,negativo
+"Valeu o preço, o produto é incrível.",5,positivo
+"Esperava mais mas serve, mediano.",4,positivo
+"A entrega é horrível, chegou quebrado.",1,negativo
+"Demorou para chegar, o atendimento é frustrante.",2,negativo
+"Mediano, atende ao básico.",3,neutro
+"Apesar de um arranhão na caixa, o pedido é muito bom, superou as expectativas.",4,positivo
+"É ok, razoável pelo preço.",3,neutro
+"A entrega é impecável, mas a entrega demorou um pouco, entrega rápida.",4,positivo
+"Valeu o preço, a compra é excelente.",5,positivo
+"O pedido é ruim, abaixo do esperado.",1,negativo
+"O atendimento é incrível, valeu o preço.",5,positivo
+"Superou as expectativas, o pedido é maravilhoso.",4,positivo
+"Tive problema na troca, a embalagem é decepcionante.",2,negativo
+"A embalagem é muito bom, apesar de um arranhão na caixa, chegou antes do prazo.",5,positivo
+"O pedido é excelente, entrega rápida.",4,positivo
+"Atendimento atencioso, a compra é muito bom.",4,positivo
+"Apesar de um arranhão na caixa, chegou antes do prazo, a embalagem é excelente.",2,negativo
+"Veio com defeito, o produto é péssimo.",3,neutro
+"Poderia ser melhor, o atendimento é frustrante.",1,negativo
+"O produto é ótimo, chegou antes do prazo.",4,positivo
+"Poderia ser melhor, o atendimento é fraco.",1,negativo
+"Recomendo, o pedido é muito bom.",4,positivo
+"O produto é incrível, superou as expectativas.",4,positivo
+Razoável pelo preço.,5,positivo
+"Abaixo do esperado, o pedido é frustrante.",2,negativo
+"Comum, sem destaque.",3,neutro
+"Mas a entrega demorou um pouco, a entrega é incrível, superou as expectativas.",4,positivo
+"Valeu o preço, o atendimento é ótimo.",4,positivo
+"Entrega rápida, o pedido é impecável.",5,positivo
+"O pedido é ótimo, mas a entrega demorou um pouco, voltarei a comprar.",3,neutro
+"O produto é horrível, abaixo do esperado.",4,positivo
+É ok.,3,neutro
+"Veio com defeito, a entrega é fraco.",1,negativo
+"Voltarei a comprar, a embalagem é bacana.",5,positivo
+"Atendimento atencioso, o pedido é incrível.",5,positivo
+"A embalagem é impecável, chegou antes do prazo.",4,positivo
+"Poderia ser melhor, o atendimento é péssimo.",2,negativo
+"A embalagem é perfeito, chegou antes do prazo, só achei meio caro.",5,positivo
+"Veio com defeito, a entrega é péssimo.",2,negativo
+"Mas a entrega demorou um pouco, voltarei a comprar, a embalagem é muito bom.",4,positivo
+Mediano.,5,positivo
+"Valeu o preço, a compra é muito bom.",5,positivo
+"A compra é muito bom, superou as expectativas.",5,positivo
+"A embalagem é maravilhoso, voltarei a comprar.",5,positivo
+"Recomendo, a compra é impecável.",5,positivo
+"A compra é ótimo, superou as expectativas.",4,positivo
+"Abaixo do esperado, a embalagem é fraco, porém chegou rápido.",1,negativo
+"Veio com defeito, a embalagem é horrível.",5,positivo
+"Demorou para chegar, a embalagem é fraco, porém chegou rápido.",2,negativo
+"Superou as expectativas, o produto é muito bom.",5,positivo
+"A entrega é muito bom, chegou antes do prazo, apesar de um arranhão na caixa.",5,positivo
+"O pedido é péssimo, tive problema na troca.",4,positivo
+"O pedido é incrível, recomendo.",5,positivo
+"A embalagem é decepcionante, chegou quebrado.",2,negativo
+"O pedido é bacana, valeu o preço.",5,positivo
+"Boa qualidade, a entrega é perfeito.",5,positivo
+"A compra é frustrante, abaixo do esperado, mas o atendimento tentou ajudar.",2,negativo
+"Apesar de um arranhão na caixa, boa qualidade, a embalagem é ótimo.",5,positivo
+"Poderia ser melhor, o atendimento é ruim.",1,negativo
+"A entrega é muito bom, chegou antes do prazo.",4,positivo
+"O produto é excelente, atendimento atencioso.",4,positivo
+"Chegou antes do prazo, o pedido é excelente.",3,neutro
+"A entrega é fraco, veio com defeito.",3,neutro
+"Boa qualidade, mediano, mediano.",3,neutro
+"O produto é fraco, demorou para chegar.",3,neutro
+"A entrega é incrível, boa qualidade.",5,positivo
+"Não recomendo, o produto é horrível.",2,negativo
+"O pedido é incrível, boa qualidade.",4,positivo
+Atende ao básico.,5,positivo
+"Demorou para chegar, a compra é horrível, mas o atendimento tentou ajudar.",1,negativo
+Cumpre o que promete.,3,neutro
+"Mas o atendimento tentou ajudar, o produto é horrível, poderia ser melhor.",1,negativo
+"Abaixo do esperado, a compra é ruim.",1,negativo
+"A embalagem é ótimo, valeu o preço.",4,positivo
+"Demorou para chegar, a compra é ruim.",1,negativo
+"Voltarei a comprar, a compra é impecável.",4,positivo
+"É ok, dentro do esperado.",5,positivo
+"O produto é péssimo, abaixo do esperado.",2,negativo
+"Comum, sem destaque, comum, sem destaque.",3,neutro
+"Tive problema na troca, a embalagem é frustrante, ainda assim a embalagem era bonita.",2,negativo
+"O produto é ótimo, apesar de um arranhão na caixa, entrega rápida.",5,positivo
+"A embalagem é bacana, superou as expectativas.",5,positivo
+Esperava mais mas serve.,2,negativo
+"Mas a entrega demorou um pouco, a embalagem é perfeito, superou as expectativas.",4,positivo
+"A entrega é decepcionante, veio com defeito.",2,negativo
+"A entrega é incrível, voltarei a comprar.",4,positivo
+"Atende ao básico, é ok.",3,neutro
+"A entrega é maravilhoso, valeu o preço.",5,positivo
+"Recomendo, a embalagem é excelente.",5,positivo
+"A compra é impecável, entrega rápida, mas a entrega demorou um pouco.",5,positivo
+"A entrega é excelente, voltarei a comprar.",5,positivo
+"A embalagem é impecável, recomendo.",4,positivo
+"O atendimento é maravilhoso, valeu o preço.",4,positivo
+"O atendimento é bacana, boa qualidade, apesar de um arranhão na caixa.",5,positivo
+"Cumpre o que promete, comum, sem destaque.",5,positivo
+"O pedido é maravilhoso, entrega rápida.",5,positivo
+"Voltarei a comprar, a compra é maravilhoso, só achei meio caro.",5,positivo
+"Boa qualidade, a entrega é ótimo.",5,positivo
+"O atendimento é maravilhoso, atendimento atencioso.",4,positivo
+"O pedido é maravilhoso, superou as expectativas.",5,positivo
+"O produto é excelente, entrega rápida.",5,positivo
+"Atende ao básico, dentro do esperado.",3,neutro
+"Superou as expectativas, a entrega é perfeito.",4,positivo
+"Superou as expectativas, o atendimento é perfeito.",4,positivo
+"O pedido é impecável, apesar de um arranhão na caixa, voltarei a comprar.",5,positivo
+"Cumpre o que promete, dentro do esperado.",2,negativo
+"A entrega é fraco, veio com defeito.",1,negativo
+"O pedido é decepcionante, abaixo do esperado.",1,negativo
+"Veio com defeito, a embalagem é horrível.",1,negativo
+"Comum, sem destaque.",3,neutro
+"Chegou antes do prazo, a embalagem é excelente.",4,positivo
+"Mediano, dentro do esperado.",4,positivo
+"Não recomendo, a compra é fraco.",2,negativo
+"Apesar de um arranhão na caixa, o atendimento é excelente, atendimento atencioso.",4,positivo
+"Entrega rápida, o atendimento é perfeito.",4,positivo
+"O atendimento é horrível, tive problema na troca.",1,negativo
+"Dentro do esperado, mediano.",3,neutro
+"O pedido é maravilhoso, chegou antes do prazo.",4,positivo
+"A compra é perfeito, atendimento atencioso.",5,positivo
+"Superou as expectativas, a compra é excelente, mas a entrega demorou um pouco.",5,positivo
+"Abaixo do esperado, a embalagem é fraco.",1,negativo
